@@ -1,0 +1,1418 @@
+[
+  {
+    "id": 0,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 1,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 2,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 3,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 4,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 5,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 10,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 10,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 11,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 11,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 12,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 12,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 13,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 13,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 14,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 14,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 15,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 15,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 20,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 20,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 21,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 90,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 22,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 22,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 23,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 21,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 30,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 30,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 31,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 31,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 32,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 32,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 33,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 33,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 40,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 40,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 41,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 41,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 42,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 42,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 43,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 43,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 44,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 44,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 45,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 45,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 50,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 50,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 51,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 51,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 52,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 52,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 60,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 60,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 61,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 61,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 62,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 62,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 63,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 63,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 64,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 64,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 70,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 503,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 71,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 84,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 72,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 81,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 73,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 71,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 74,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 74,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 80,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 80,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 81,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 81,
+    "gai": "gai_f1a"
+  },
+  {
+    "id": 82,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 547,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 83,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 546,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 84,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 84,
+    "gai": "gai_f1a"
+  },
+  {
+    "id": 90,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 90,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 91,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 91,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 92,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 92,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 93,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 93,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 94,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 94,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 95,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 550,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 154,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 534,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 155,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 581,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 164,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 165,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 166,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 167,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 168,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 30,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 169,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 174,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 175,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 176,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 177,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 178,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 21,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 179,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 184,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f1m"
+  },
+  {
+    "id": 185,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f1m"
+  },
+  {
+    "id": 186,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f1m"
+  },
+  {
+    "id": 187,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f1m"
+  },
+  {
+    "id": 188,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 21,
+    "gai": "gai_f1m"
+  },
+  {
+    "id": 189,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1m"
+  },
+  {
+    "id": 193,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f1n"
+  },
+  {
+    "id": 194,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f1n"
+  },
+  {
+    "id": 195,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f1n"
+  },
+  {
+    "id": 196,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f1n"
+  },
+  {
+    "id": 197,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f1n"
+  },
+  {
+    "id": 198,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1n"
+  },
+  {
+    "id": 199,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 200,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 201,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 202,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 203,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 204,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 205,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 210,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 10,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 211,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 12,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 212,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 13,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 213,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 11,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 214,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 14,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 215,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 15,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 220,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 22,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 221,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 21,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 222,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 20,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 223,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 22,
+    "gai": "gai_f2a"
+  },
+  {
+    "id": 230,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 31,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 231,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 32,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 232,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 33,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 233,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 30,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 240,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 92,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 241,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 93,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 242,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 94,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 243,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 550,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 244,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 91,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 245,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 90,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 250,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 84,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 251,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 546,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 252,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 547,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 253,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 81,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 254,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 80,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 260,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 74,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 261,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 503,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 262,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 84,
+    "gai": "gai_f2a"
+  },
+  {
+    "id": 263,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 71,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 264,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 81,
+    "gai": "gai_f2a"
+  },
+  {
+    "id": 270,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 64,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 271,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 63,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 272,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 62,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 273,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 60,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 274,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 61,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 280,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 43,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 281,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 42,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 282,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 41,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 283,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 40,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 284,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 44,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 285,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 45,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 290,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 51,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 291,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 50,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 292,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 52,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 364,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 534,
+    "gai": "gai_f2f"
+  },
+  {
+    "id": 365,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 581,
+    "gai": "gai_f2f"
+  },
+  {
+    "id": 366,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f2f"
+  },
+  {
+    "id": 367,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 580,
+    "gai": "gai_f2f"
+  },
+  {
+    "id": 368,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 30,
+    "gai": "gai_f2f"
+  },
+  {
+    "id": 369,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f2f"
+  },
+  {
+    "id": 374,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f2r"
+  },
+  {
+    "id": 375,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f2r"
+  },
+  {
+    "id": 376,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f2r"
+  },
+  {
+    "id": 377,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f2r"
+  },
+  {
+    "id": 378,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f2r"
+  },
+  {
+    "id": 379,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f2r"
+  },
+  {
+    "id": 384,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f2m"
+  },
+  {
+    "id": 385,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f2m"
+  },
+  {
+    "id": 386,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f2m"
+  },
+  {
+    "id": 387,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f2m"
+  },
+  {
+    "id": 388,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f2m"
+  },
+  {
+    "id": 389,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f2m"
+  },
+  {
+    "id": 393,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 5,
+    "gai": "gai_f2n"
+  },
+  {
+    "id": 394,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 1,
+    "gai": "gai_f2n"
+  },
+  {
+    "id": 395,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 3,
+    "gai": "gai_f2n"
+  },
+  {
+    "id": 396,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f2n"
+  },
+  {
+    "id": 397,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 4,
+    "gai": "gai_f2n"
+  },
+  {
+    "id": 398,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f2n"
+  },
+  {
+    "id": 399,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 400,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 523,
+    "gai": "gai_hero_f1"
+  },
+  {
+    "id": 401,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 523,
+    "gai": "gai_hero_f2"
+  },
+  {
+    "id": 410,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 523,
+    "gai": "gai_hero_f1_sera"
+  },
+  {
+    "id": 601,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 501,
+    "gai": "gai_big_battle_500units"
+  },
+  {
+    "id": 602,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 503,
+    "gai": "gai_test_massive_on_screen"
+  },
+  {
+    "id": 603,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 503,
+    "gai": "gai_test_pve"
+  },
+  {
+    "id": 604,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 503,
+    "gai": "gai_test_auto"
+  },
+  {
+    "id": 605,
+    "fractionId": 2,
+    "type": 1,
+    "players": 1,
+    "mapId": 503,
+    "gai": "gai_test_auto"
+  },
+  {
+    "id": 606,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 21,
+    "gai": "gai_test_auto"
+  },
+  {
+    "id": 607,
+    "fractionId": 2,
+    "type": 1,
+    "players": 1,
+    "mapId": 21,
+    "gai": "gai_test_auto"
+  },
+  {
+    "id": 9068,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 523,
+    "gai": "gai_hero_f1_new"
+  },
+  {
+    "id": 9069,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 523,
+    "gai": "gai_hero_f2_new"
+  },
+  {
+    "id": 9188,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 90,
+    "gai": "gai_f1r"
+  },
+  {
+    "id": 9189,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 20,
+    "gai": "gai_pvp1"
+  },
+  {
+    "id": 9190,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 546,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 9191,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 546,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 9192,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 2,
+    "gai": "gai_f1f"
+  },
+  {
+    "id": 9193,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 547,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 9194,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 548,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 9195,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 548,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 9196,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 549,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 9197,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 549,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 9198,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 550,
+    "gai": "gai_f1"
+  },
+  {
+    "id": 9199,
+    "fractionId": 2,
+    "type": 2,
+    "players": 1,
+    "mapId": 550,
+    "gai": "gai_f2"
+  },
+  {
+    "id": 9299,
+    "fractionId": 1,
+    "type": 1,
+    "players": 1,
+    "mapId": 510,
+    "gai": "gai_f1n"
+  }
+]

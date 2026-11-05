@@ -1,0 +1,272 @@
+{
+  "standalone_tests": {
+    "platform": "Android x86_64",
+    "assertions_enabled": true,
+    "count": 64,
+    "passed": true,
+    "cases": [
+      {
+        "test": "activity_contract_store_test",
+        "passed": true
+      },
+      {
+        "test": "ai_base_policy_test",
+        "passed": true
+      },
+      {
+        "test": "ai_coastal_recon_plan_test",
+        "passed": true
+      },
+      {
+        "test": "ai_economy_policy_test",
+        "passed": true
+      },
+      {
+        "test": "ai_guard_policy_test",
+        "passed": true
+      },
+      {
+        "test": "ai_spawn_plan_test",
+        "passed": true
+      },
+      {
+        "test": "ai_team_policy_test",
+        "passed": true
+      },
+      {
+        "test": "ai_tech_dependencies_test",
+        "passed": true
+      },
+      {
+        "test": "ai_tech_policy_test",
+        "passed": true
+      },
+      {
+        "test": "ai_water_plan_test",
+        "passed": true
+      },
+      {
+        "test": "battle_contract_store_test",
+        "passed": true
+      },
+      {
+        "test": "boost_contract_store_test",
+        "passed": true
+      },
+      {
+        "test": "boost_conversion_test",
+        "passed": true
+      },
+      {
+        "test": "building_economy_effects_test",
+        "passed": true
+      },
+      {
+        "test": "campaign_catalog_test",
+        "passed": true
+      },
+      {
+        "test": "capture_start_policy_test",
+        "passed": true
+      },
+      {
+        "test": "career_box_store_test",
+        "passed": true
+      },
+      {
+        "test": "career_star_store_test",
+        "passed": true
+      },
+      {
+        "test": "competition_track_store_test",
+        "passed": true
+      },
+      {
+        "test": "contract_box_store_test",
+        "passed": true
+      },
+      {
+        "test": "contract_store_test",
+        "passed": true
+      },
+      {
+        "test": "control_point_policy_test",
+        "passed": true
+      },
+      {
+        "test": "cooperative_credit_store_test",
+        "passed": true
+      },
+      {
+        "test": "cooperative_goal_policy_test",
+        "passed": true
+      },
+      {
+        "test": "cooperative_store_test",
+        "passed": true
+      },
+      {
+        "test": "effective_box_policy_test",
+        "passed": true
+      },
+      {
+        "test": "fast_contract_store_test",
+        "passed": true
+      },
+      {
+        "test": "ffa_rules_test",
+        "passed": true
+      },
+      {
+        "test": "formal_credit_store_test",
+        "passed": true
+      },
+      {
+        "test": "free_box_contract_test",
+        "passed": true
+      },
+      {
+        "test": "hero_ability_effects_test",
+        "passed": true
+      },
+      {
+        "test": "hero_atlant_effects_test",
+        "passed": true
+      },
+      {
+        "test": "hero_coil_effects_test",
+        "passed": true
+      },
+      {
+        "test": "hero_salamander_effects_test",
+        "passed": true
+      },
+      {
+        "test": "hero_store_test",
+        "passed": true
+      },
+      {
+        "test": "item_inventory_test",
+        "passed": true
+      },
+      {
+        "test": "local_history_store_test",
+        "passed": true
+      },
+      {
+        "test": "local_match_store_test",
+        "passed": true
+      },
+      {
+        "test": "local_mobility_test",
+        "passed": true
+      },
+      {
+        "test": "local_progress_stack_test",
+        "passed": true
+      },
+      {
+        "test": "local_progress_test",
+        "passed": true
+      },
+      {
+        "test": "mixed_rewards_test",
+        "passed": true
+      },
+      {
+        "test": "modification_effect_test",
+        "passed": true
+      },
+      {
+        "test": "modification_store_test",
+        "passed": true
+      },
+      {
+        "test": "native_battle_grid_test",
+        "passed": true
+      },
+      {
+        "test": "obsolete_speedup_test",
+        "passed": true
+      },
+      {
+        "test": "official_capture_policy_test",
+        "passed": true
+      },
+      {
+        "test": "offline_account_store_test",
+        "passed": true
+      },
+      {
+        "test": "offline_world_test",
+        "passed": true
+      },
+      {
+        "test": "profile_statistics_test",
+        "passed": true
+      },
+      {
+        "test": "quest_store_test",
+        "passed": true
+      },
+      {
+        "test": "research_effects_test",
+        "passed": true
+      },
+      {
+        "test": "rifle_research_effects_test",
+        "passed": true
+      },
+      {
+        "test": "shop_box_store_test",
+        "passed": true
+      },
+      {
+        "test": "skill_store_test",
+        "passed": true
+      },
+      {
+        "test": "supply_policy_test",
+        "passed": true
+      },
+      {
+        "test": "timed_building_contract_test",
+        "passed": true
+      },
+      {
+        "test": "unit_regen_effects_test",
+        "passed": true
+      },
+      {
+        "test": "warpoint_rewards_test",
+        "passed": true
+      },
+      {
+        "test": "warpoint_store_test",
+        "passed": true
+      },
+      {
+        "test": "weapon_accuracy_test",
+        "passed": true
+      },
+      {
+        "test": "weapon_groups_test",
+        "passed": true
+      },
+      {
+        "test": "weapon_parameters_test",
+        "passed": true
+      },
+      {
+        "test": "weapon_reload_test",
+        "passed": true
+      }
+    ]
+  },
+  "rebuild": {
+    "host": "Windows",
+    "native_bit_identical": true,
+    "all_zip_file_payloads_equal": true,
+    "new_development_signature_expected": true
+  }
+}

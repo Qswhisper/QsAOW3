@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "QsAOW3",
+  "version": "0.1.0",
+  "package": "com.art3rts00.aow",
+  "min_sdk": 24,
+  "ndk_version": "29.0.14206865",
+  "build_tools_version": "36.0.0",
+  "base": {
+    "url": "https://github.com/Qswhisper/QsAOW3/releases/download/v0.1.0/QsAOW3-v0.1.0.apk",
+    "sha256": "1f5689018f1f5b246f6aec7de245add0f7b6ee469bc4c4c55b8ab17d09627e92",
+    "il2cpp_sha256": "64e606763dec962c47f50f2974400e00fa05b7c502ca30838406af938edc8135",
+    "loader_sha256": "db864f23088195e79a6869b876f2f357249515be240a7cec23c2455deac3146a",
+    "signer_sha256": "6f82e1321d6a1f482a535709683609e2600880ac0670ce863b6380b7bd22efb5"
+  }
+}

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.ggs binary
+*.bin binary
+*.png binary
+*.apk binary

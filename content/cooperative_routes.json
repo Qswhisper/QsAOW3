@@ -1,0 +1,14 @@
+{
+  "schema": "local-cooperative-routes-v1",
+  "routes": [
+    {
+      "faction": 2,
+      "mission": 973,
+      "map": 558,
+      "own_side": 1,
+      "ally_side": 3,
+      "source": "offline-campaign/67c6ae0ae24ed7a6773cd458c03bcd3612613078e27aabdde19e63d342e96a91.ggs",
+      "sha256": "67c6ae0ae24ed7a6773cd458c03bcd3612613078e27aabdde19e63d342e96a91"
+    }
+  ]
+}

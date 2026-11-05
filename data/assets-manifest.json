@@ -1,0 +1,1907 @@
+[
+  {
+    "path": "AddressablesCatalogs/Maps/catalog.json",
+    "size": 460802,
+    "sha256": "61fbcb491d68cc231ff14cab5e119de71d63d2e65fab3de8d5eee1b0cb04385a"
+  },
+  {
+    "path": "AddressablesCatalogs/Maps/category.hash",
+    "size": 7,
+    "sha256": "8f016f46c31b009063f9cbec8b6bd5593a49038fbfeb5f258634e7f44244d7d6"
+  },
+  {
+    "path": "AddressablesCatalogs/OmniWindowElements/catalog.json",
+    "size": 14265,
+    "sha256": "5e330d99a8ac7abf48c4c2d2ff88134c032aed8772ca8175475b713cea60fe00"
+  },
+  {
+    "path": "AddressablesCatalogs/OmniWindowElements/category.hash",
+    "size": 6,
+    "sha256": "b00e1152b00dd6258238f34a6047e9cbc132e5e6aeb5b633136e633e4e4ec2f9"
+  },
+  {
+    "path": "AddressablesCatalogs/OmniWindowTemplates/catalog.json",
+    "size": 16431,
+    "sha256": "9378c1c195fd71ed2e4b53fd5d0b19f55e15f7c3b7851afd30ea604ffe952024"
+  },
+  {
+    "path": "AddressablesCatalogs/OmniWindowTemplates/category.hash",
+    "size": 7,
+    "sha256": "289f59ed99d0852e0df27de3ca72ee084ae54a5a9cfda29d5cb43edad4f5a032"
+  },
+  {
+    "path": "AddressablesCatalogs/UnitModifications/catalog.json",
+    "size": 71980,
+    "sha256": "2a9672c1d0a236d0ede4e27ee529caace7f56d106b2157457e7cfb8114e67dbd"
+  },
+  {
+    "path": "AddressablesCatalogs/UnitModifications/category.hash",
+    "size": 6,
+    "sha256": "94727bd052e8a069e3d8fb580110abb80694a3ec98f2c927356aed5e9b47062b"
+  },
+  {
+    "path": "Resources/BATTLE",
+    "size": 27564,
+    "sha256": "3ae2570272af8f545264412e5c418f56220c7fb727d24f0d96beafadb086f819"
+  },
+  {
+    "path": "Resources/CONFEDERATION",
+    "size": 92433,
+    "sha256": "8bf1cdba871f34e9e6554a6b131e662be076960e67e106fef9b205ca337c5437"
+  },
+  {
+    "path": "Resources/LOCALE40",
+    "size": 398814,
+    "sha256": "38508c36a1d2c4903b4709e5157954a76dcd193413012e542a7facae2fd9072b"
+  },
+  {
+    "path": "Resources/MissionDictionary",
+    "size": 246666,
+    "sha256": "cca62148948af3ea66874db960940ce521de3860d0f4df85c11f2441b3eec8dd"
+  },
+  {
+    "path": "Resources/RESISTANCE",
+    "size": 95282,
+    "sha256": "59ee04f093c7e6d098e3a32c995cb98fe0fba6f02e50708ead7cf631e914ae69"
+  },
+  {
+    "path": "Resources/SHARED",
+    "size": 327600,
+    "sha256": "d7c006b3c046d56c83e4093adface6ab8b9367b826bec49c286190f14fe2d01a"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_blitz_zombie.jpg",
+    "size": 78181,
+    "sha256": "fd7f9063e4aab8873d498f289155f3cdf1532ef73a17d2023fbb1390246b0ad3"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_skirmish_header_27_f1.jpg",
+    "size": 104781,
+    "sha256": "a861a5c9d70f9ef772b9a859bd8463abe0d44b1654c7a04508abd3c54dd9494f"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_skirmish_header_27_f2.jpg",
+    "size": 118921,
+    "sha256": "0b3aab6c200a1f62513d937b697329ff2a2c6540c8b35b35df6ebaa2259defab"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_2vs2.jpg",
+    "size": 24984,
+    "sha256": "d0166780bcae199d99fd0851017cb11fa79b08344da955bbf1c13f294bbdc80c"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_3vs3_f1.jpg",
+    "size": 18296,
+    "sha256": "faf9526fe38cf766b545a961cb11b0bcf022b10ef0082fddac088a44ffed8137"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_3vs3_f2.jpg",
+    "size": 17345,
+    "sha256": "328962626742a73690b08a4603c74e760060f01e5d8eba75c3736c43564b7af2"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_hall_of_fame_big_f1.jpg",
+    "size": 26922,
+    "sha256": "9ced960e14a2a9bed80bf5e1c4ce0b45844e5cf6b00391569d649ace6054e8e2"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_hall_of_fame_big_f2.jpg",
+    "size": 27522,
+    "sha256": "d9e7e8b9808e8f494f2a5f743e07ea053ed306f43243ce68541a94113c98ddab"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_pve_f1.jpg",
+    "size": 26990,
+    "sha256": "6df3760d8ef9eafa79778a297d1b0da80746e4ac27066de850565321a6822979"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_pve_f2.jpg",
+    "size": 25474,
+    "sha256": "8897154333035bf5422aadfddc6302dd2d72ce01dd99481b6277634859fdffb7"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_pvp_f1.jpg",
+    "size": 43480,
+    "sha256": "1cd42b162ca822ff4d1a81ace4b82bc399fc87d438f58bbd4d8ca8aed9aeac59"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_pvp_f2.jpg",
+    "size": 48088,
+    "sha256": "18e224e94fa5ecdcd21309fd4de8305fdd5ca89100ef2d3971b86529b486702f"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_training_f1.jpg",
+    "size": 26196,
+    "sha256": "e09b9e5cef07e405b39b87c5dc71ffa862ecf06b2d14db0fe76d761c7aa357e0"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tile_training_f2.jpg",
+    "size": 22121,
+    "sha256": "0cf2edcdc09d7efd42c60dfce1d1888965c6cf8a00af9602f1a50a1663e089a9"
+  },
+  {
+    "path": "ResourcesCache/CachedTexture_tour_header_27_2.jpg",
+    "size": 112953,
+    "sha256": "7d7dfe261d3a6c4729e4e131ad23c9ae666aade1f28489cd9f2f89f7b86231b5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/decorations-autumn_assets_all_254da66aa98f54a815db01363289dbed.bundle",
+    "size": 2748818,
+    "sha256": "aa27905a0d8e241f1f9c9ede4cb5ced5d987ae5a96be04fe8b2254da2032e876"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/decorations-midland_assets_all_d46113b5d89541068502e7d039cb6b4d.bundle",
+    "size": 1656535,
+    "sha256": "9a8e13b9d8a1b13c796a50ea726ba4dd8404b161ac4091b90db00fce7e978fc2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/decorations-snow_assets_all_f787aea4b018fc293d847d84ed6aaac1.bundle",
+    "size": 2319518,
+    "sha256": "0e3c37855127e2ea47aa36169d5612de24f09e09a6e8edeff7f9adf04191867a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_10_1/map.prefab_6bc03ab349e23e58a2810756868b5b90.bundle",
+    "size": 1465698,
+    "sha256": "f8b4a32628fc8dd760a3e00cef2aa16d10386dc4b74464f896d702ef043bc4be"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_10_2/map.prefab_10999a9c2368256ef31cdf67432167d0.bundle",
+    "size": 1318274,
+    "sha256": "33484cff52a130d1fd77c96b6b0159b238be105d26ffa24e74856fe322d93a78"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_10_3/map.prefab_39dcf9bff2d3b009093e04b18c6cb4b0.bundle",
+    "size": 1405744,
+    "sha256": "35d126916ce49d5d1af4566dbd693024d275bf286741c1605e072774a7aab118"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_10_4/map.prefab_77f3c964d14add9bbfd4aab2440c6199.bundle",
+    "size": 592040,
+    "sha256": "0960edbaccbc7ac13a48391495bbd8df33a09323a0348ccdd4a9ab7e302d6a32"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_10_5/map.prefab_72f4083d4244c0595128d35a30b43113.bundle",
+    "size": 1608662,
+    "sha256": "065644b7491f23d972f43ce16f052c7e38c1ae86badc28237b06c657535339ba"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_10_6/map.prefab_4faec6e420cf7a65b103d6fce0122cc7.bundle",
+    "size": 1267082,
+    "sha256": "f09f187f946a308e2fdd09630184e6a8ea3844e097a57b5d5d915de4152c2c91"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_1_1/map.prefab_333a02a025ea559db2eb3e77adbe7b96.bundle",
+    "size": 411605,
+    "sha256": "50d01eb1bef9570caa034198050e1eb0da29ab9325861f03b7a587b106c7e138"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_2_1/map.prefab_a6bd43a4e300eb6492fa9f088d09be15.bundle",
+    "size": 1101870,
+    "sha256": "71bbfad5a514206d7fb609f17c9d437c4f735c87a708fe13d68656701af2e31d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_2_2/map.prefab_d1e196280376f94ac2c1b8c6c4ff5372.bundle",
+    "size": 1072716,
+    "sha256": "7f3b0dd3bf91222a287d4f30bbaf962d7b8ba8bbe301d559b4e4d1efb896ab87"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_2_3/map.prefab_404cd0847beb35429368b151b3bb065e.bundle",
+    "size": 1137081,
+    "sha256": "1dfb27d2322c8a85a2f4fbe2cd427eac7c308da4d889685c9269d176aa2b91fc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_2_4/map.prefab_75b3fc72cad97297813ad290e25e6304.bundle",
+    "size": 1136101,
+    "sha256": "7b92226818ff14718ab6ce194c5fd0bea76c737e08a0ac69bea140e5906463fb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_2_5/map.prefab_0f5a17cda826de2df93a1d031fef49a7.bundle",
+    "size": 1088406,
+    "sha256": "8134a04783a14091090e9f495c81db500a8796ad421ed26a8214a00db176495c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_2_6/map.prefab_57a6d202450aa4d2cd7a1cb57ccfb4ea.bundle",
+    "size": 1187593,
+    "sha256": "a26e55906f09362513e60bd98531d0db3ab482c4ae0f87a7dea2c60cf1418a7e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_3_1/map.prefab_1e68da74a9b1ac37b98019bb30f752af.bundle",
+    "size": 1298115,
+    "sha256": "75950cd17a02e07e988b3a5a70b574ee459efb4ec31b0d0b4b566226654b97a3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_3_3/map.prefab_9e376f12e4991d13ab359c7525adc336.bundle",
+    "size": 542994,
+    "sha256": "66af4197b84714c4c30a182995fa38fc2140392178bf7696036ec5ec5bb94e2e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_4_2/map.prefab_46aa01412add445a930502d710d2a0b5.bundle",
+    "size": 473515,
+    "sha256": "08c048a03549276f9b0394f171ca2e4efe28616be521b2bd0ca550d4a8f9298d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_4_3/map.prefab_267e983561b6e696b404c1464dfff961.bundle",
+    "size": 1256559,
+    "sha256": "217b2ca78df598368e64bdb4f7cd5263b420060eaa4557361fd11142c1c5e7b5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_4_4/map.prefab_a9d50250b18866475a8930f70be38662.bundle",
+    "size": 764983,
+    "sha256": "b17f81cb4118bf4bfb98bfd8707fe1eff3d64b09f186f1acf98bad8f13274ced"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_5_1/map.prefab_f1c325ac81fb8dacf0d2f4db29c9becf.bundle",
+    "size": 433889,
+    "sha256": "308e8b71740ceb8d0c36d7c07e42e4ce79af96b6487a32f3523660307ec53d90"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_5_2/map.prefab_473ab52bea2ed39d82e5aed134197490.bundle",
+    "size": 547979,
+    "sha256": "d9d3c9217cfa2c0d9cdb174a1819b22600eefa017a2c2158a971fe41a8bbcad2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_5_3/map.prefab_f124a21785cb13a3f814d5b3532c569f.bundle",
+    "size": 518366,
+    "sha256": "c211e5a2a4d3c51dac120eccf56ae609bfc36e14e7157398651ced3bcd8bb8b5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_5_4/map.prefab_6400bf69382689dd88ab987c9af0f415.bundle",
+    "size": 320476,
+    "sha256": "f3259778e13c56bbae28b85a1fae1146019a1e608a56871f13246d85c6032901"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_5_5/map.prefab_1b0fa5e3fdc19059283dfbc24c6f3e03.bundle",
+    "size": 596095,
+    "sha256": "e616fe077551b482967c9832013f89cd88b9f62f4087bd3dd82044a5eb42234e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_5_6/map.prefab_8ad5c850d69d0607ebb39d57f750ac88.bundle",
+    "size": 502703,
+    "sha256": "1555aaa8dddf6a5aa6f4bf506b04febbd506d41a05607d0e7257f2bb5a56e7bf"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_6_1/map.prefab_8fec877046227f8b77a8165c7616051d.bundle",
+    "size": 758911,
+    "sha256": "e3e3ea6d988d17dc323dc76675ea25af90aa634bd1b40bb5f99f654a55a76ab3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_6_2/map.prefab_0031d8886d8e725e049a67d9a8ebfd3c.bundle",
+    "size": 750707,
+    "sha256": "6997611323d222e57aa1f21b64f25a9e9b8565461d633481c960efe61935029c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_6_3/map.prefab_b1ba08aea61e2b553fbce8c2340f1ca3.bundle",
+    "size": 603007,
+    "sha256": "3e92ff2b48a4b9f1cddbebae2f8130babdf5f88cc1535e64bb5a2fa331f85d85"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_7_1/map.prefab_fa6f431b55faa1d4dd68c4a33a907fe5.bundle",
+    "size": 465646,
+    "sha256": "a6b9c3617bffdbc28d49aea0e2afb768f718a54de68b4650691484b3c7ebde7a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_7_2/map.prefab_66f6ae7220146f3b0fea64b904b92139.bundle",
+    "size": 718420,
+    "sha256": "017c5bcda451951bc1c1565cb255173b95d012d705f561835123033349ed0742"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_7_3/map.prefab_46f96f82d84949cc0d33fe64cb55075f.bundle",
+    "size": 652882,
+    "sha256": "1c7e72544b1bbb6a1d56503bec80f884aa848f9e4d3030c7b53a72625b925a92"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_7_4/map.prefab_beebd645a6203afc2f4faeed399bf6b8.bundle",
+    "size": 475037,
+    "sha256": "5d937d5eca30cc6311edc7dbfd170d0f2b16c7ab62b3b3051b45d521782d97ed"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_7_5/map.prefab_331482b0c5a9ed4f6a71cfc507715160.bundle",
+    "size": 468376,
+    "sha256": "e1410e4314824cd950c939fa0e4e77fef65db8589ae9e34e140e2a2e8dcd9eef"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_8_2/map.prefab_6d158e5339a566d7dc61341073f4cf34.bundle",
+    "size": 551576,
+    "sha256": "7655a490b8da97c079df56a79207d9f735ff8c5129ab46e9c7cac06597e500e0"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_8_5/map.prefab_b420d169fd866f0d5ee7f299b4c7d361.bundle",
+    "size": 423683,
+    "sha256": "3f44628aea03bcfa42a86892f8e7d5929d314410cede19642b99df6b3d98c8d7"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_9_1/map.prefab_005534b64de22a5d4fc7a2f41d4be0e4.bundle",
+    "size": 727681,
+    "sha256": "cc05d0861e87be40f55ea46a87dde39cd76709b484826022982d4fb1b20d6873"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_9_2/map.prefab_071985747b0487285a1853fe032f914c.bundle",
+    "size": 567705,
+    "sha256": "0237439e0b9bf1cda0ce5697490577ec1b82e3b739ed372437c9897cd6950a08"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_9_3/map.prefab_2d1d3d1849b8a8c639e953f1e27e11b0.bundle",
+    "size": 644826,
+    "sha256": "f5d8ce5da191583226fe33ed8fde5e482d7c99156cf75b6c0a3e777d7176d934"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_9_4/map.prefab_1588e3bcd9b1902e94a76371c0ed28ac.bundle",
+    "size": 550608,
+    "sha256": "953763577f8242040d14946dc40aebe41888ce6ed1c5818cd7f1e2f38fe18886"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_9_5/map.prefab_5d0469328c849a3da1a64c91135eda4a.bundle",
+    "size": 777823,
+    "sha256": "0aa4c3ecb8df1d9a205eeb9b54df22db144cf3d0745afbfda72e1ffb4ac83639"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_10/map.prefab_4abbbc9ad69cd0678cef63e28adceb97.bundle",
+    "size": 1474632,
+    "sha256": "9a765643d24a21251f4c8939690afca6457db92359999ea6ab2210417fa3c6f0"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_12/map.prefab_9f70bf7a4218b9e054cce73852c2d759.bundle",
+    "size": 859265,
+    "sha256": "9fcf00a18bd7388f10680c73c4edc6f4980e13e4ff51984a00c8442b18c7d091"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_13/map.prefab_6387e3d53e6cceb8c09369ae110ba994.bundle",
+    "size": 1779577,
+    "sha256": "8d8de80cf5aad8ea47c12cc00d2e2caaa120a7487497dc48106a19b6c12eabfb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_14/map.prefab_7975ea9bca648762e82201e34422ce18.bundle",
+    "size": 1646795,
+    "sha256": "3bce0bd54386a3b08ae754093a8660f52f0b934c6fa499db4a71c938d9f3c3ff"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_15/map.prefab_2e5ccafc42071bd8e09ce2e2d4913c4b.bundle",
+    "size": 1817190,
+    "sha256": "8e48ccb7b0620fdaba2afa78c2bef37b69c4d34b978cae481a8d39995ebb4a47"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_16/map.prefab_d99626363617ec6627f15dfcb70bd45b.bundle",
+    "size": 1062346,
+    "sha256": "0ff1c10a43beddf6a81e3192eb4d6945ca01c60a9082995694441cfe4bb87b61"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_17/map.prefab_9bd386a359dc39e3d28a6db4d7f9bcc9.bundle",
+    "size": 996570,
+    "sha256": "c14f98ae744058ee917a56614996fed99f08cf37f4a12bc88f13c6b26daff84f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_18/map.prefab_021c251ae725368a5f7c6f7160bbb0a0.bundle",
+    "size": 1844062,
+    "sha256": "c633535ed387057a94355c62e9d76cd33fce3020fd1ed5d7600e35277d8b67ac"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_19/map.prefab_48f89e7887b73ec259e0200559300e05.bundle",
+    "size": 819973,
+    "sha256": "89dbaee9f47412757bc52e36162be10eb00dc9bc34e25431a630cdf348219bf3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_2/map.prefab_0e3556d9c87fc1c5dcaa962397d95fa4.bundle",
+    "size": 1466409,
+    "sha256": "3eb9ebce00924d33f79352bd0fe5c55a842e185029f8d6230d06164cfe92a9ee"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_20/map.prefab_6ca2cd4931f1782c4d89eb372db6b577.bundle",
+    "size": 1038328,
+    "sha256": "d95207b0f448457b45ef4483a8e0e928a23e344b65ccb0d910a72081c2a4556d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_21/map.prefab_5f59d18dd966e85566782761f8a7c0c4.bundle",
+    "size": 1000303,
+    "sha256": "261dbb5cee9b7c1a107ba784e67d4c6085df72802c6c738e10854317e5b3a7f3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_22/map.prefab_4e0a1facda273b1566eea2e941abf028.bundle",
+    "size": 1031562,
+    "sha256": "28be962d17c33810328c5b2b166ec7a30dfbc7e34876669a9f382b63be0d75f2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_23/map.prefab_e80b964a68e9bf07d8830ba47f4aeabe.bundle",
+    "size": 2028317,
+    "sha256": "20191b0e866e84bb9dc6d112f3f20ca616ad2d8f536e4202d0fa09bd2a99a0fb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_24/map.prefab_d37438e9afb1e6490c281f138697b07c.bundle",
+    "size": 843026,
+    "sha256": "200101dcf2a18828d692562e6ace7d66687a48edab2297d8ef1fa61f2dde724a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_25/map.prefab_349c17f9f9216e623bdc4db3796b52a3.bundle",
+    "size": 832425,
+    "sha256": "e1d8de6f4a46571771e7b696aef72d8cd272d86dbeebba508daf236f4ea2b253"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_26/map.prefab_47afec1176d9830d1917733dfa0335d7.bundle",
+    "size": 1795037,
+    "sha256": "a8d9ae58801af7aeb71c562c82e6cda4c35624e09bf1b6a79c2d4a08b8267451"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_27/map.prefab_74d53ace6434f53c552b649725c14398.bundle",
+    "size": 944608,
+    "sha256": "a7f32e95c1913d4e609102af88e759338efb13556666bfe736e9b45c2f1e4996"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_28/map.prefab_8ddbd7bc72c7898383fd0426355faa7a.bundle",
+    "size": 727131,
+    "sha256": "8eebccb3fb962aaece6f8884a5d9e26aa6d00f2c7e2f03a863e4d22bf4b982fc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_29/map.prefab_075278dde31279e5a64e218ab4a66f63.bundle",
+    "size": 1555888,
+    "sha256": "ea984c6769b1c8f087dce5b5d22eeaa5dd0844d004f9ca32eab230138bae6150"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_3/map.prefab_f7b16738886ae14b0c21aa5d985c3540.bundle",
+    "size": 1221097,
+    "sha256": "03edbe21cf31663f79db693f558c45f57faa71af998568930645e9f7f4be1946"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_30/map.prefab_302d40c6b2d1b6e32383ea0816cac2b5.bundle",
+    "size": 1212470,
+    "sha256": "85543ffa09d4cda3633554475ad0e3b9562a55374bbf578c45867155cb91e852"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_31/map.prefab_6f88c9849b55d0b2983948c35a16d495.bundle",
+    "size": 714390,
+    "sha256": "aa7b3684911bed0e4ff67002a25119bb241cd3a9dea354965ac659b188202b75"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_32/map.prefab_b7423d40540249e502bfb94d6b8626d2.bundle",
+    "size": 706137,
+    "sha256": "ff7782c2d827441e77610cfb01a0c9213c1c224af1e46fc50694319a4a2bf63d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_33/map.prefab_7e75b12c1d4b9c78ba90f0a46bd668ec.bundle",
+    "size": 1370171,
+    "sha256": "ceafce0c788c9f0f58256f372b2a7e38212e3ccd0c35366824e22c1579bca98e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_34/map.prefab_1740f86710f4cc6ebbc338510547d31e.bundle",
+    "size": 695186,
+    "sha256": "4c017c7315cb536c4bed23f3e45da72e2cce3868ac8bc2d9957339c116c0da1d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_36/map.prefab_7624030ad83a1598031b82e6ce7406c0.bundle",
+    "size": 2258027,
+    "sha256": "e243401409a4f29593f0911c0368dc0ec43bf2e979dcc13958a5071779191060"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_37/map.prefab_6710ef348b843c135e8a74cec5e34dd5.bundle",
+    "size": 876827,
+    "sha256": "9b1a3c7fb2da0d5787f9ae88357b29f0763058eff5fe67e911aa8e7df7c711d1"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_38/map.prefab_a8e05fb36f891f6a527786879f7b8d91.bundle",
+    "size": 1225184,
+    "sha256": "08a239da9d9edeef7f71e3f93d18a9119bc7c5c6e02c59f2828153d13a520212"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_39/map.prefab_8b3a97ea18a19062d3d8fbac89883108.bundle",
+    "size": 968799,
+    "sha256": "481e8e52eda4687468ad65f5d1e204225438f95a4f23fe7cf4dfc582bfe8670c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_4/map.prefab_52e35ad07ea6ea505370071b113fbb1b.bundle",
+    "size": 1325925,
+    "sha256": "af0e00018b477d8f3cb0c2b4f8a4a1aa7ca9704dca6dfb5870b9247d0edbcfb5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_40/map.prefab_389e9a872da45ddf2e9c1e216d48d325.bundle",
+    "size": 1747709,
+    "sha256": "2ec8eea1a4824de49d3646059e10246415d77bade74b3546a6c9b933e3c7fe23"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_41/map.prefab_269d5ded551b81e19aa48d8e1ad5cc31.bundle",
+    "size": 1045686,
+    "sha256": "25b98c5e78eed0efd924bcf9064343cfb77a78a54e0087bf099a15380b0410c8"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_42/map.prefab_3c86c2e2f3873c1ca4062fd560ef7c60.bundle",
+    "size": 762487,
+    "sha256": "048664111f033baee909c6b62da56ec898c104fc69737d4ea0d05f47c3882371"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_43/map.prefab_8d477008e35f788d6fb9ba0dee99a63a.bundle",
+    "size": 1547349,
+    "sha256": "6a36e3585725d1472465b64dd1b61365390d546226c6057a971cd423273f4993"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_44/map.prefab_eb11a6f3a1849a6c6909f82c87372eef.bundle",
+    "size": 955039,
+    "sha256": "b811d4320e7150c6dbaf6a163ac54f464bc5c899b98ae6cdafbdc8dfb75eef1e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_45/map.prefab_dea65300604b67bff84752d9789eae2f.bundle",
+    "size": 1800962,
+    "sha256": "958249ada7f63ccdb0520ccc34c3705b3588c16fd17ef0a6b25c9b39bbcc94c9"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_46/map.prefab_5f8c7fd785161a684d0f459ec552557a.bundle",
+    "size": 892409,
+    "sha256": "5dad9fdd99b0e91fe54cf8e947c0a957b4b24d320b04e01e49b31113bbf767e3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_47/map.prefab_8f518a7b8976fc49ecf3d240dc071f5f.bundle",
+    "size": 668807,
+    "sha256": "d0f926d03bd66db50f1067ff298a969e63a53ecb4c403b9149901107e1461ecd"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_48/map.prefab_2e20be76df2d3fb0202382202aa80fe8.bundle",
+    "size": 705193,
+    "sha256": "f47d60856fe621576a4b83456bc22482948725f7c9219be52815985a22abc9b1"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_49/map.prefab_4540a57c02df4e090a1ed291e75491f6.bundle",
+    "size": 537209,
+    "sha256": "78f534cbb69ffd59d124398f06f6c8749da98a5ca10db05346517f17b453334a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_50/map.prefab_c461b5a0e4ad671d63cd0cfd66898837.bundle",
+    "size": 587417,
+    "sha256": "3942f6b9061cff13482ff3ed456635d223b21eec5343537abf4325c86807c3f2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_51/map.prefab_b6b00ffb9de41ac15b18324f9f3cb8d9.bundle",
+    "size": 1341536,
+    "sha256": "733d8a9b9e1aba0c377baa8fa037b476b8778c86f755068280ceb4ee6dd74ca4"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_52/map.prefab_3c755bef19017802c201ce31c71c10e2.bundle",
+    "size": 1125798,
+    "sha256": "c4516a73d1e4db541f1c0e5dc821de9b47e72833921cfa429b3b46a5b9dc9c29"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_53/map.prefab_6fb2d2b388451991438fbda2d1ae0e60.bundle",
+    "size": 984435,
+    "sha256": "d439a118f1290364f9c15874d12f5675f1f7eb759aa7facf5d291827c45af333"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_54/map.prefab_0d05f0ba771244789f3057e5d2b67066.bundle",
+    "size": 1807413,
+    "sha256": "74928aef48d9507ed0b492bd74787c40b274b577ba159e6b3b530d9c3cf4ba3f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_55/map.prefab_02e1a1040f773ec6cb09d0ae85ad75d6.bundle",
+    "size": 701992,
+    "sha256": "72b2be0d7b479246fd05be24e8f0368f1a03f4793f9b58924cb1246214d9ace3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_56/map.prefab_58eb1d829ea6ec977823d391ae0adc51.bundle",
+    "size": 1299533,
+    "sha256": "e698305b3fce0d6e9cfb98373eaba106d1fbf8deef0687fea86490acdb15e2e1"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_57/map.prefab_16974ed65c34fbb8fd5b5204ad4ef923.bundle",
+    "size": 2071987,
+    "sha256": "503ce899eda1b7993a5b719699fcd9c0c62de48a74080bdf9c2286591bbf259b"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_58/map.prefab_e1b9a73c60590a22be810b2f74125815.bundle",
+    "size": 1343133,
+    "sha256": "aa0018fc059cf9f42417144dbe7c1e65fb286230a9608d173792b598d6ccc55f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_59/map.prefab_0faae1aeba4bbc0935f77ebcb03772c6.bundle",
+    "size": 1173744,
+    "sha256": "008fb0407a27bf4b8aeb33ebaf716786b017cc86943ad8073015429a1312e7a4"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_60/map.prefab_ac47a19ecfcbd177bdd0176c713ca7b1.bundle",
+    "size": 1258366,
+    "sha256": "aac898c1c3224d5658f5a937e484666199f6e6993c83d54bea6984d0b8429746"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_61/map.prefab_bcc210877ba6466fcf41eb9b9aee04cb.bundle",
+    "size": 744854,
+    "sha256": "2b14d6b7db20ed6a415f4e20538234edcb4dc4ab5ffe98f07e7ee33b8a5e8c2e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_62/map.prefab_b48bf41d874bafde71d8638744ee22a1.bundle",
+    "size": 1190004,
+    "sha256": "10279c1b5e343db57b1ac7068124a32ee938baadd5a972608d48c65df1021299"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_63/map.prefab_c6db759909e83495037b143f4c08b960.bundle",
+    "size": 1083039,
+    "sha256": "2a87cfe9109193a11bf67d67ffbf4c47f496d203ae73f8123ab02e4303303fc0"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_64/map.prefab_95b88b5fca0b2b0c3483eaf676f8290e.bundle",
+    "size": 1518065,
+    "sha256": "be21986b8ee71fcb9f298101cc4d57548e734cc3a6b22b80339a717e9ad9b885"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_65/map.prefab_581374eec11fbc6789898ce5908839fa.bundle",
+    "size": 1672952,
+    "sha256": "f7bab0aaa0fce458ae3c073e6a77bf3111341dd3dab203e259e097cc54c3b309"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_66/map.prefab_4947843b056b86fe2b6ddf9bf440ab1b.bundle",
+    "size": 1399308,
+    "sha256": "6014e55ebcbf2f11e478757f380d5fbcbc8186a77448fa6e19677e3a28993bd8"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_67/map.prefab_43d7eb02d00c4ba7018e3a6bf10b8b25.bundle",
+    "size": 868385,
+    "sha256": "456edb305a1b4ec188b5f8444596809599a573cbec1f14a0c5ff12fda8ebd7fb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_68/map.prefab_e216d6c851ca650d8ec55865931fb6cb.bundle",
+    "size": 1244654,
+    "sha256": "720ee597623d2e63d20ecd30c5e964345d77a35290aef37a8c69284765f18a09"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_69/map.prefab_adb67ed72d629623d367c3c06b57856a.bundle",
+    "size": 1356125,
+    "sha256": "0499ca210646ad3d70e05f58ee8e81b70a48878f1a15dc62938ed17f6d4f7f6f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_7/map.prefab_5843f7d31ef1d4ad98d69e36ce1649e2.bundle",
+    "size": 1553967,
+    "sha256": "107934a886700f8d56e7963ea18079531c909c7129ed7f7926bd11c92ee63bba"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_70/map.prefab_8a3a42692291ef7b887a720c67f38366.bundle",
+    "size": 1486128,
+    "sha256": "f60abb404a7eba4788c323c44bdbea51c3e569a3227968efeb7d2c8151e31978"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_71/map.prefab_da0492a41425ff4ae25e4f31f16320cc.bundle",
+    "size": 2162148,
+    "sha256": "65216edf0a7bb7b3da40f713be9b0301e650b02635663ef9a6d5802b1d5f5c59"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_72/map.prefab_5b564f639c7fe9bf8c93d409764bc055.bundle",
+    "size": 1220541,
+    "sha256": "a245c20f8099157eb9a1a4c5efb2c326f0f0020e4698b1f8f0fabc90d75feab6"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_73/map.prefab_cce616cd0b8d5899de6a951e0417d660.bundle",
+    "size": 515831,
+    "sha256": "d737ccffb3b5befc744f78ca8c32c7bb117e9051d6c75fc4d4a80e99a1e14879"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_74/map.prefab_d565e90e74b60f7aa1d0a41a35f95575.bundle",
+    "size": 1102616,
+    "sha256": "1dbebb98cd1d1e3f991439e24b9aca0bf861dcec09f507edd3c559d1a0c2e3e5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_75/map.prefab_cd6eeb1e57aa2550fe312d2112221d3c.bundle",
+    "size": 913367,
+    "sha256": "94b0d8105e69017add62d2df5fc540b6b3689df37044aaa4e69485d1945edaa4"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_76/map.prefab_b2f28a15a17599a92d59e9c0dc246751.bundle",
+    "size": 1616543,
+    "sha256": "f0fb2b6b74ef0127230c5ef934ee59d19368b6cc9d00bfcea0f54a27249895e5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_77/map.prefab_e4446503a997604d07dc0211ec731e63.bundle",
+    "size": 2070440,
+    "sha256": "eaa738afddcd9e8a3f67079ddd9d75a2dfaab0d79bf578e7781e44d463bc6680"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_78/map.prefab_b40b0e402e9159efaa8fe9a38ba49d35.bundle",
+    "size": 649926,
+    "sha256": "0f4f96d88e6fcaa6f377d30952fef87fab026076ce3a45d20b6ea0e230de8ac3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_79/map.prefab_a1bfff694d3f1c4be1b5d3d47ca5f794.bundle",
+    "size": 2104161,
+    "sha256": "a3aa261c0ff42da221b9dbde6a805a0c5f45d65f110438e01b6ba23ecf6fed07"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_8/map.prefab_0830aedd4ee6fc52595a0c1543092b83.bundle",
+    "size": 713546,
+    "sha256": "aeacc48d914da762a9017dfe5beef2afb1f366aaf003dd5f7443df52c82d2f74"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_80/map.prefab_f035325c761537d2700d0d035b02d0a3.bundle",
+    "size": 1654800,
+    "sha256": "5dd9a06f56790a6fb6b60799e6b84288b8b54149138c79e673ea81eb14d5d3cb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_pvp_9/map.prefab_8a9a297739e4990c02479d48ba319728.bundle",
+    "size": 752499,
+    "sha256": "331ee6faab5c358267be2caa40c55965dcd01ec34846c7d3f059f6bbde552109"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remotemaps_assets_qa_test_ground/map.prefab_25e126a8c501d9616da38540b73dea1e.bundle",
+    "size": 930467,
+    "sha256": "1c0d2ebdf6952be5064153058103ea1eba88930731b69abfae9c898c82e8d1ac"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_10_1/minimap.png_78414c99cf9d9bdf40b7bb189dcfc9e9.bundle",
+    "size": 8369,
+    "sha256": "3329c09fb0d2fe16379c20ef602d1d2f8ec75235ecf7f7dfe958a9ede076710e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_10_2/minimap.png_fa9b796392a01ba4a4127f99e9edc247.bundle",
+    "size": 8263,
+    "sha256": "7f4366b5a145fba32cb5798f1bc5060f837cc9ca69cc11754ff5faba2eb09469"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_10_3/minimap.png_28c5acc4047da3d369781a81c031f698.bundle",
+    "size": 6973,
+    "sha256": "0ae8af3d6789be877e68e16c830ab1199f6692be9d4ab9f2185261fa546a89cc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_10_4/minimap.png_77fd45fd62c4bc54271f88151d65a4a5.bundle",
+    "size": 7490,
+    "sha256": "8d5358b6da4e830286c64a1441ecdc7db0cf34ff98709e031404b486186b9a1c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_10_5/minimap.png_766d54049dfd7ae33104d798790e64cc.bundle",
+    "size": 7732,
+    "sha256": "15f27e59686f27aa754727502b57363b978254bc0298f5743eb61904ea9fefc9"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_10_6/minimap.png_a1292beabfab0cebe609b241b1ee8cf3.bundle",
+    "size": 7569,
+    "sha256": "22702910b56036d9ea045f86125432215e067d05f6e30c98cba8446e7432dfa5"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_1_1/minimap.png_0bb628336cfad19a6f8cc824f58b68f3.bundle",
+    "size": 8405,
+    "sha256": "ea741be2be969a28a8116683bfb4421d2789bfa5903d1103a2a5a8da38b82362"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_2_1/minimap.png_81671ead0cd972c55ba6cbb88631d7f7.bundle",
+    "size": 7965,
+    "sha256": "a452b131f4108f8d6ae5a437e378811e34a48741487c2de57e0557607a888dc1"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_2_2/minimap.png_614b8d6acf2177fba0139dfb9e78ec28.bundle",
+    "size": 8134,
+    "sha256": "93ae724f30f7e5392afac993e1080edb382d73d612094cbd4f7083e4db813c2a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_2_3/minimap.png_1b591a55246a44b8cda5a4872db82f2a.bundle",
+    "size": 8307,
+    "sha256": "839628512f4f071af44e3a34f050f8e290923b6c1c38ad26847d594f637ceb6e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_2_4/minimap.png_802532e166de4e86fac804ea528ddbc9.bundle",
+    "size": 8342,
+    "sha256": "2f8984e20cef6a255fcb1330522c37f3039f90e4b3e1887851601c83500ab452"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_2_5/minimap.png_8387882a2b4096960750ea3d171762f3.bundle",
+    "size": 7996,
+    "sha256": "536cce9a2fc54c2de0d20d27f8180ba4440ae4c91614c9f3b64a403b2170a1db"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_2_6/minimap.png_0c387fb69b50ff1ce231ab0794eae47f.bundle",
+    "size": 8347,
+    "sha256": "7a5a7f297f5bb6f8c4a0bd554d4a99cfec905b63ac9f84fe69c61f3623c4735d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_3_1/minimap.png_adfddd07ec93708be63df02f9ad1fee9.bundle",
+    "size": 7946,
+    "sha256": "6e9c02d94efc18d7513228d5b69b6c60f46e207c4f9d5edd325042296b9eafc2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_3_3/minimap.png_29336d23579f5ca39a9ec95219e410c8.bundle",
+    "size": 7917,
+    "sha256": "baf69cd580bdb9a487d4e5c5f8a970c2ff3153f3f41f3c06b6e9f80ec1b404e2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_4_2/minimap.png_6b70fa6ca0027c1636862598395dcd56.bundle",
+    "size": 6678,
+    "sha256": "a147a96f9535fc797174b42f8ec81965fd9937fa01c1df78594bc1eaeb498c56"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_4_3/minimap.png_621d9998c5130321b681dcc4e4d58c31.bundle",
+    "size": 6513,
+    "sha256": "2ebeeb17a73b79fcdfdea2c1feddcb91955b5db6178f9b79217abac471eb0297"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_4_4/minimap.png_7ce9a4f6d9e7f2bda1b21d11c4e08d3d.bundle",
+    "size": 7958,
+    "sha256": "fc1d0c152cf8d648030c0c5f74e5665fa7a88a3fe00907a971d5b427199a6238"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_5_1/minimap.png_61a1b5c90db4a4a15614e3070f539bdb.bundle",
+    "size": 7755,
+    "sha256": "1a8d89ffee9ef0ca87639aa079d29b89f5cc088e8dba2ef5c77171c06114dd44"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_5_2/minimap.png_1d31cbc2ae16a00e8cf92c59d568d96f.bundle",
+    "size": 7003,
+    "sha256": "598aabe29b176ed172fcd99b7334dde53c7e93a39bd3c3aac4b9e7b36b05a0af"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_5_3/minimap.png_64c0c19cf009748f31cca44632475a35.bundle",
+    "size": 7845,
+    "sha256": "72c9f9b7e3b4db20e8f42ae5aaf43c3c90d7ae194e373bece149ada05ed0189c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_5_4/minimap.png_708ce23795e7369684d72d44998025b9.bundle",
+    "size": 7812,
+    "sha256": "889bf358f1a52ae28fc45bf23fc0c7f69adc6e3b12d6dd11d77ac1bb12f4b139"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_5_5/minimap.png_6ae384cd774edc3aa68c1c9bc97c547f.bundle",
+    "size": 7374,
+    "sha256": "90082e69ce1247e8faab13f4fb15293143d7fa67b2fe7873e833eadd6a310112"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_5_6/minimap.png_320f6d3bad47e3f83f6f5046a4c64dd5.bundle",
+    "size": 7772,
+    "sha256": "034044367a6ea739738cf8ee7950a1dfd632f857eb49eabd7d2a7e9ddefec697"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_6_1/minimap.png_2d986059c375b69bf29db3e92220b9b3.bundle",
+    "size": 7407,
+    "sha256": "392b56c821f5ebc01fef3de0c2315b0cfc0adb1ac2beb687b529e54ca9fd566c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_6_2/minimap.png_2f50e0d8ab2a474d625ee32966ec7236.bundle",
+    "size": 7975,
+    "sha256": "33eb7716f00d3962ffd78b8349f164dae1d5b4c9576aa06adfa0ccf575aa1582"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_6_3/minimap.png_db52d53986abeec921b1613b066c8b3f.bundle",
+    "size": 8421,
+    "sha256": "5a6fa030c42a0bb5bc92fd4f2500379d0de099ae5e287edc5b277985b961213e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_7_1/minimap.png_81820b40f3161514e037fc84bb86ebc3.bundle",
+    "size": 6195,
+    "sha256": "d6e9c54751f1b30fdd9ccb8a7d37eb66d8baad2d89249ab624b72bce9aff198a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_7_2/minimap.png_7cdce4e7450f674e6d91cece588b757d.bundle",
+    "size": 7655,
+    "sha256": "773f567b874205d7eaed701bf58ecc48ee1f90aed1abbd447ab0955ec9eba8ad"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_7_3/minimap.png_b26f62b907bea5def84d2eabdf75e594.bundle",
+    "size": 7080,
+    "sha256": "650acd5e645eec31576e0610c11bf4e56aaf09c0824fd663ff80599d2c5def44"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_7_4/minimap.png_4b323d2784a57ebbefe4670db3599a94.bundle",
+    "size": 6771,
+    "sha256": "ca62b17744142e6cb4bf3a6953bd503ad1bb9b5734acfd8578b89194e0cfb6bb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_7_5/minimap.png_af494202cbac64fc47d6c151174fa2a9.bundle",
+    "size": 7405,
+    "sha256": "67b0e7b34ec9ccd911be9a5e02a6dc7c8b9534e9b711cf72cc7e670b972203dc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_8_2/minimap.png_73e8c52f9f072bac9b977620ad721580.bundle",
+    "size": 6844,
+    "sha256": "9b3f9433c43929c2e076d1e7ecc5cdf6e0ed52bb58c3b6fb117c1ec5df524c4d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_8_5/minimap.png_8dee4395e7f05d2dada1e31c51bd2683.bundle",
+    "size": 7438,
+    "sha256": "03f12f28b4c2b7bda510e780ad4ac2aa5009f5b4588522f8a22391cc43af495f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_9_1/minimap.png_286e9c1d3f0740ef68da43858c8475bd.bundle",
+    "size": 7789,
+    "sha256": "80cffaa46649fe4d52f59382dd5a21476c84277c45f13c44bfaee0da0fb213dd"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_9_2/minimap.png_a9b26313da14f036236cc52a0f3a39fa.bundle",
+    "size": 6121,
+    "sha256": "f2f68bb926e0fb60338386f1ca83a8124ef485e31be58539c4da369b505432ab"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_9_3/minimap.png_fce64d276db88cf33daf3a1d9c3d81a3.bundle",
+    "size": 7041,
+    "sha256": "5f7cbfa4b99fe3e947e3239cfab783ddace54863c6d7e34b5112f112a4707e6a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_9_4/minimap.png_db1800d493ebcbc1437d637c50f283c9.bundle",
+    "size": 6752,
+    "sha256": "bc4ae57e4ff7c8006cab86cddd167d029bff418ef87adb66dbe7e7fc14f559a6"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_9_5/minimap.png_c56fa1a2c1cd5e8882a87110e39ad4d4.bundle",
+    "size": 7951,
+    "sha256": "acc561701c9e96645776bdcca2a723b6dbcf5b084a3241ea1fc4b500a28f9147"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_10/minimap.png_9f5fa3ee1f39d9b44f321b49cbe67b6b.bundle",
+    "size": 8213,
+    "sha256": "17b877051a884ede324b4e7ad272f8f6f2fc2cef9396c511b021cac211025690"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_12/minimap.png_c890dedb3ff1635ea0c578ec904a90cf.bundle",
+    "size": 8437,
+    "sha256": "9041264cc5dc79a63e1ae32ecf9c8e5d7f86ff247221ba4a62b693b8fd722211"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_13/minimap.png_c35ef0fb2162f817203a93bf7c781852.bundle",
+    "size": 6653,
+    "sha256": "7f4f9b40495bab0e394b1a4eab0cb6f62b8bbccb62b69eb6ab02fb28172cfd4d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_14/minimap.png_9fc3aae6095052b4be6f5a8a0683b3e6.bundle",
+    "size": 16934,
+    "sha256": "f6456ecb823706bd6f895d02d774b8af85519d43147d43568c649f939a3d75aa"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_15/minimap.png_46f66193716e4a7b6b3d8c9b77f6494e.bundle",
+    "size": 7092,
+    "sha256": "d5df3f8cc63edd54d56f93d3121a45b990c14404c2ba9cfeb7695d29b43c1216"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_16/minimap.png_8ecf3a1e120922118cbf7756a789d80b.bundle",
+    "size": 6431,
+    "sha256": "9bd5c9db585af1511e9144a10987965f0b7cec8eefcc947bd4f3da8ee539f37c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_17/minimap.png_14fd380a0bec848e85503d8eda6d796f.bundle",
+    "size": 7040,
+    "sha256": "a23b3e482902761a8d41eb3c939ce0c105c900dbe92e100f6aae8c1a99d3805b"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_18/minimap.png_3539dc7603e41e721dd40ab6e213e903.bundle",
+    "size": 6789,
+    "sha256": "6e4d53b05340a61bf20ce325b7af3d9ce20d68e37b1517bdc64674a58acf67f2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_19/minimap.png_d536dd2512e78c27e24db2d2bcb8207d.bundle",
+    "size": 6426,
+    "sha256": "61c4e682e9e819e5cdc71bf02123081476c717c3f8bb9e25e6124feb614df8ab"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_2/minimap.png_e264834990c1c9aa8ad02461639d24cc.bundle",
+    "size": 6966,
+    "sha256": "8611ae5995c2030b18592631c94f0c1e972b7d02c60df12709c6fbb68536b763"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_20/minimap.png_e4100d0dba5f9b60e40fdd5df8ca1a12.bundle",
+    "size": 7741,
+    "sha256": "686fc08e585c0b98f714e86c930e11e258156f92752194fc5254382bec29148b"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_21/minimap.png_984a1d0d56c0c115c1c67a7fa5d857b6.bundle",
+    "size": 6938,
+    "sha256": "45194c02810033e44f96a2be987152a2801b74007063cc9e363aec1f400ec4cb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_22/minimap.png_4723ddb587a3ada43e64481fed3e7c29.bundle",
+    "size": 6516,
+    "sha256": "e38fc3febca86b4ba5c31d7cb9530b4f5901c368fea7343b4aabdff695241890"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_23/minimap.png_9b969cc909ba43f0f217590dd87f7cea.bundle",
+    "size": 7365,
+    "sha256": "ed739f601c2bd92c598ed55ca8f1958223d93ae4b27b69c82aecf86b83121d72"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_24/minimap.png_8ed5179b789f4dc6092c5723b66f62b1.bundle",
+    "size": 7440,
+    "sha256": "432b88e87d49b11d4da510db94500c2aa98e9f9b17b478207e6f3dde94699739"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_25/minimap.png_3a687f8b5c2995b50dc846fbe62401ab.bundle",
+    "size": 6393,
+    "sha256": "2bf493219639df6dd963cb0a605c26961fbcbfe2dc19deea8bc3d4e345debe54"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_26/minimap.png_2ba63a5069747014a8595c42360e81c5.bundle",
+    "size": 6982,
+    "sha256": "98bd95347d2f2a5347ca8a308fe89697770f55f74dc5cecd5f886447bc11bcc9"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_27/minimap.png_d685eac79e2f0a27aa1ce0caf4b4ae51.bundle",
+    "size": 6785,
+    "sha256": "163c59f09a9d431e613c9f67d67f267af8bc318242b2e9b31fc9be809c6db168"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_28/minimap.png_1e86db85a73d1de7b98025f11efd90bc.bundle",
+    "size": 6386,
+    "sha256": "8ddb8b5cbf6e87f8e315760644dcd69cf716f4a09c85f0d7e3e0f6b75d4c684b"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_29/minimap.png_8c9d6e4512da1bc1c117e61dfa9ac4d5.bundle",
+    "size": 5836,
+    "sha256": "23d633ee04d5bc0663649a2db9868fd0635fa72a0971a16c7f5f23468be02d99"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_3/minimap.png_b4b74473935be1828dfdd4923c19fc27.bundle",
+    "size": 6409,
+    "sha256": "fee0d1c06665c2c318d60467a31da7285e05b461e8e8ce4f578f58d6b13ec913"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_30/minimap.png_e63b37cd41874b865c131dcc6c7c1ab5.bundle",
+    "size": 8662,
+    "sha256": "2d659d6c183dc3e77f457d3fd6ef122e3877a60a436c39e2029c80440349eec7"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_31/minimap.png_2dd525c62040499514229e7e624691cf.bundle",
+    "size": 6945,
+    "sha256": "b6d677c57e57ea3cb4948fae9096b97a4560ec3ddd796d7039ebc04e3ba5c843"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_32/minimap.png_cb1b4eba21ba00a9e0dadbbdbca49b73.bundle",
+    "size": 8003,
+    "sha256": "07e6e27cc10a25b6b90e769db76e173bddafdc3cc5aee285c589e2ea92c33ed0"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_33/minimap.png_f97f71d167dfe2240de95d6846462e6e.bundle",
+    "size": 7128,
+    "sha256": "c32962e247a5efaf7890cf0d35c441f0543c846878ce8f1b27ae69fbc471a11a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_34/minimap.png_28bfc7defbdaa1ba0834c229ecc0f301.bundle",
+    "size": 6686,
+    "sha256": "67871510f2b0fd4ab88e7fe6375739c2dda23420c145e2235ca61ee7f0fdbf3d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_36/minimap.png_4619fa017ea4c54e60d11ab6122b6fad.bundle",
+    "size": 20814,
+    "sha256": "eb60e342176d94d174cca00bee76a6720aeec740cff24497a0d9adc030c4480c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_37/minimap.png_344fcb0d2c505560af47f71aa0b6ee8a.bundle",
+    "size": 19998,
+    "sha256": "d9dc9a858895982e5981ff50121ff0be65b68199b9c38a24f2cf7ce01a66943d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_38/minimap.png_b9d052f6b696dbc84f2620e3952b2fd1.bundle",
+    "size": 25484,
+    "sha256": "78072eb23cd675273bf8ede43f612046bea7d6964538da324d7980c569187b58"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_39/minimap.png_e021de7bc0f36a256a733d88291309cc.bundle",
+    "size": 30827,
+    "sha256": "94325b8f29bf24f538facb969a021d2032ff0c4068691768d11cf6b512b9892e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_4/minimap.png_40d304ec102a56301913f54e9f779619.bundle",
+    "size": 6843,
+    "sha256": "f98559d61dac95f3da22d19554e37b5845f1c5b6e02724fa2e2f9bb4c6dc6161"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_40/minimap.png_254f6d0484bc10467df27543f90f8fe0.bundle",
+    "size": 30250,
+    "sha256": "497116062bf44caba118f578d3b6697f7f58203b19ba7371e9059979d198bd88"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_41/minimap.png_146420cfbee631322bf34af3e7b6eeaa.bundle",
+    "size": 19310,
+    "sha256": "3c75aba6631de4800ae7e1c7f56c965a26e0053d0af8927390be6cd47ecf672c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_42/minimap.png_d9b9a8aeaeabe69c35ffefa059bab48b.bundle",
+    "size": 26007,
+    "sha256": "fabc052900fefcc41dc2f99ee95bf4e1dd95131197116dcf3f1d0dbed937ad3f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_43/minimap.png_9c7dd65c599ba7d2a9d42542cfbcb382.bundle",
+    "size": 22794,
+    "sha256": "0c42e07a48c94e498518527d384ae0bbbfa2c77f615241fd82e86fd9b52dfffc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_44/minimap.png_456a788c7405ee31c9cfdae8b8ed81db.bundle",
+    "size": 21311,
+    "sha256": "70133dcccb66b1caff1db849b365ed0f575d8a3b70a2a009e0ea08388c3b4dd1"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_45/minimap.png_933e5b4bd8f5f20700efc7d0fab0640a.bundle",
+    "size": 24088,
+    "sha256": "dd5990dcc7ad902f11df22b8bb82e2bd6e409a1a503bc50bfb0879e7dd25e954"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_46/minimap.png_4de35ad9a7df7d7286945489a4d224e7.bundle",
+    "size": 22030,
+    "sha256": "07a092414500a998530473feffd66c4ac6d5da868fd3cbbe00396f95d6bcb72f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_47/minimap.png_d19d75245216acfd923bae10a8478110.bundle",
+    "size": 18678,
+    "sha256": "c30768ea3148418de7390984e8f8a9aaaaecc1b00623b32907c2df46140b8435"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_48/minimap.png_0b2bb377161a87be02b2f646dd082478.bundle",
+    "size": 19456,
+    "sha256": "01cfbd330a482494da910d088074c3944b25c86bc0259fcb4a9226ac660bc13e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_49/minimap.png_5175e4a7b7105aaf3b761f92a12fc2a1.bundle",
+    "size": 19096,
+    "sha256": "1ef38281a53c4f135c887ac9f5aed388477d022c693251293f3a493eaca3869e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_50/minimap.png_3f7a480152303250c652c6b4dcf5cc19.bundle",
+    "size": 26787,
+    "sha256": "b03248d377ca607a742262c6467b11e174073c5c00fea5ecd70530f7047a7910"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_51/minimap.png_75d33aa9a47f6a9573d3f20bd3bddb15.bundle",
+    "size": 20832,
+    "sha256": "66049b23504e3b815e87aa21041169e50e2f933f29daae0579ecf43bafcb7bfb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_52/minimap.png_f38448176aeba36cc67b015c3c016070.bundle",
+    "size": 16693,
+    "sha256": "e31d0c8906f96b34e63cc4e1f8de50ca348d5a27c55082b86b55fb292056bb34"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_53/minimap.png_aeed7c5d4200097b71da2c23e789ec0a.bundle",
+    "size": 19584,
+    "sha256": "c004184d979fa7208b8d50ed3f5394ee1944bd138c8ef9ebf8934eff3cd081fb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_54/minimap.png_457fd73469219691ecade277e99b6a4b.bundle",
+    "size": 35480,
+    "sha256": "25531589d24dd90996a6cd055105b1ec99499ece20fd5e4232955ad27ea4148b"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_55/minimap.png_6df77d03eb319565fbef13a08501a7cb.bundle",
+    "size": 23525,
+    "sha256": "01625a2807c458ac340d9963c4026d7981638867bba786e461e4ab40e451fc15"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_56/minimap.png_2284a2c9e2f8e4b9a75456621fd669ff.bundle",
+    "size": 17379,
+    "sha256": "d53acdfe0d5f28fab824818370f4bf8fe215d76bd2a6b901fdeeab6acf1bf72a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_57/minimap.png_66f24de7f8aa2ce369b5dd14ef64ead4.bundle",
+    "size": 23363,
+    "sha256": "4f0e414a3dff464bbda24f388d0756a7b965249024349ca4e7009434f8728e35"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_58/minimap.png_7aead04976f7266bda7b2960fcf145a9.bundle",
+    "size": 26606,
+    "sha256": "1830bba5dc0a1ff39f21d36bccc88aeae7eee20cfc79a4003a5510a397c0fecd"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_59/minimap.png_be157cf00dc03054eaa0ec96ec1bf4f3.bundle",
+    "size": 20583,
+    "sha256": "2e0a1e20833da0f2adcae45fd9e9c59ddd6bade8ec3bb1d1085a35b9fbd1f714"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_60/minimap.png_a6e1c46086348b79b534264ff6f363e0.bundle",
+    "size": 25953,
+    "sha256": "398d0e75ca74f94070d3660673377ef4c8f929480c56747c70ca2913573ab9bb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_61/minimap.png_0b1d6c1d2fa274849f5b8a64781222a1.bundle",
+    "size": 11963,
+    "sha256": "327e465a189dd27533f3d62560c7eb99724a2fce2851a3ed9ded5bc6c4a10e87"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_62/minimap.png_84e2abeddcc7d952667f76b15e758dc5.bundle",
+    "size": 15152,
+    "sha256": "57a2c2b31b4d79bdd4e895aef28e6623e122ecd751fcf80cd412e44f49f7b1f2"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_63/minimap.png_98625cd7572bb2628fc603eafc77e760.bundle",
+    "size": 21712,
+    "sha256": "933344bdac1d0f5173020499caf47396d3c18563d1751fd5745a5661045e66dc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_64/minimap.png_72b6a7e03b96db974c3bd571840c42f1.bundle",
+    "size": 19715,
+    "sha256": "dd001228c5c8a8355e430c76c0bfd295a79b1a428b1bb7afebeeeebdf056750a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_65/minimap.png_347085925b57c62985e44597dd54b2be.bundle",
+    "size": 24699,
+    "sha256": "59ca129b1c9d4ff54a77ebbf16925d00f067e15b017ae7f8bced7840d2d8cc25"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_66/minimap.png_fc0f99ae6751115ebfe4d1da4f56c371.bundle",
+    "size": 27222,
+    "sha256": "17d2d58605957dbb324eafeb8ad0e33a026c7e5250c53a73f00783c97dd04b2f"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_67/minimap.png_e283e4af7e70d667e291ccb98f5835d4.bundle",
+    "size": 16227,
+    "sha256": "0746bf6d0b39ee560c70b8bdd7b9769546875e5c2b7a126c9f0bddc10c086b61"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_68/minimap.png_698eda0b4eeed88d2fa9f4ed8800b056.bundle",
+    "size": 19959,
+    "sha256": "9ddc027acb64b6c3d80023f5efcb8679947cb0e44341e04322adbbba5cf43551"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_69/minimap.png_3aaf44ebaabbaeeb2dcf8f9171467415.bundle",
+    "size": 16246,
+    "sha256": "112a1a8efea4a0f0feeef7a47b77e1d6c57734210a58ed39eafaa24c290163e3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_7/minimap.png_2087532cce0454784d292fac9ec34628.bundle",
+    "size": 7944,
+    "sha256": "d60afe4f2d03de735b6ee7e96aca6f749977f47f471a43a9d2981c5c90c478ad"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_70/minimap.png_17b140da6fb4e5e67914c87c031047de.bundle",
+    "size": 23712,
+    "sha256": "677bf790c9c1e0983dd0083788fa6d12e071b49c84ba25de143e02e6d45df7e7"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_71/minimap.png_c1eba45baf2648fd97d027aab63d9111.bundle",
+    "size": 22514,
+    "sha256": "5b5ff4a04392153ac158eeac3fa9a4f07a3ee68ae217116f2577ac49b60a9c46"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_72/minimap.png_c730424f2c3f4a985fb0ab2af060f912.bundle",
+    "size": 22984,
+    "sha256": "363b2a15f7d76ef7506d5b535de9970a5711aa24da89d7ff1404f7ab60a9afec"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_73/minimap.png_13b3319c616d001e616c0e929f435b39.bundle",
+    "size": 24605,
+    "sha256": "4042b010df855d30440cdcc19c773e02af4004ff5fcee495f4f84d61713857d6"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_74/minimap.png_b6fa61b6dfffc40cc36e336c5eb1420b.bundle",
+    "size": 19945,
+    "sha256": "3358934cc473b20259677bbfb99f8ce9f419463f83dab093676b5bd7af051b61"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_75/minimap.png_106cdb3a1ac1d2a33acb039a49733ca0.bundle",
+    "size": 22674,
+    "sha256": "bc18a5da13b0610c5a4e1c5c9c3a1073dd4da86cdf8fb889fd21c0dd445bf2f9"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_76/minimap.png_587339e9e0a724b618667f65626da676.bundle",
+    "size": 32873,
+    "sha256": "8dbb1a4fa021c1cf58bf6cfe9c56febb7d4a28ca96b59a24279938d206b8af83"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_77/minimap.png_efeff6703f84000cf0451334dede6d27.bundle",
+    "size": 33600,
+    "sha256": "2949f47ba04eb809a64ec0cb7d964174435ae1bad0b7d62dc90399777d170abc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_78/minimap.png_1bd61289404379c2b4a1bff832a439bb.bundle",
+    "size": 18270,
+    "sha256": "7ad96d64aa2b4fae040d3fefd6ad423a1b25bc67e51512c91bcbb7d1b9851e28"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_79/minimap.png_f87586e1cf9575b3339e9781eedcdc14.bundle",
+    "size": 25537,
+    "sha256": "e2bae391a14a275efb2b67db47cb63543af8aacf603a87a0336bbbdcf0b10c1a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_8/minimap.png_df87caecac1f66e4475742dc5aa971c3.bundle",
+    "size": 6962,
+    "sha256": "7981a6e97d812b7fe53785c618c668d6130fa25aed73f9ada61489233947bad0"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_80/minimap.png_4057587f2a14e897d586ce26e53ce4c8.bundle",
+    "size": 27205,
+    "sha256": "36267019e1e26ce166e8451b61f8486182df8b7a7e0d2deac49e231e81bd1295"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_pvp_9/minimap.png_1494f531746569b963e76391a30afc33.bundle",
+    "size": 7266,
+    "sha256": "5e175ff7d6b04ddf329899612624d0748c4909cf09f897af97fb70e0909bcfc9"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/Maps/remoteminimaps_assets_qa_test_ground/minimap.png_ad07a1f8b8341c396fa831cb978f90e7.bundle",
+    "size": 14022,
+    "sha256": "bf754d5281bb4aa1d9493a1c394da23dfd8037e27cac6e4a37c2389f5747992d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/OmniWindowTemplates/remoteomniwindowtemplates_assets_ow_template_news_test_979c8fd7f4a8d80e9785cbc6cfd8ca73.bundle",
+    "size": 12184,
+    "sha256": "69d8a4dd75476d445e663a816db1d11cef532ecf0dc6e4a89617d6fc9750a70e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_armadillo_groundunitmodifications_7885f8a502e71d4c185f0c1b2908a774.bundle",
+    "size": 28566,
+    "sha256": "2c2f09736a2ee8a361d98d3b3e73c2b0e2d47512e0025084f91c708a1d62f16a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_chameleon_assaultunitmodifications_6ecf1c57abd764b941fa99182ac64090.bundle",
+    "size": 29656,
+    "sha256": "ac7f9353ce20006bc79b8e12284ae389336eaed90909f5653e91f42c895782eb"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_f1_avia_fighter_epic_shatterunitmodifications_91f1e0ff7ce4b13d21b187ee53e52a54.bundle",
+    "size": 702477,
+    "sha256": "5cbc57fcd47cdcf25c044a40e6bb5fdd356296a27e9830083862e2d4b24b3332"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_f2_avia_fighter_epic_interceptorunitmodifications_b3ad35da3bd865ceb68302bcab1ebd02.bundle",
+    "size": 701614,
+    "sha256": "fc0f7409179baf753b0b0175593d7f13de1efa17bb8dfe63ee623aa216eada23"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_jaguar_supersiegeunitmodifications_a7e5c7ad4543e91b269834b719beced7.bundle",
+    "size": 25889,
+    "sha256": "1ef244264eaf8e26e931e51d3dcb5de37be88ccbf278f233ee8ee5fa9d038adc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_porc_lightunitmodifications_9a9fb14c7e3cbeb98c6054f39188172b.bundle",
+    "size": 25662,
+    "sha256": "b45b19ffcab40019c78d27993c521965d5d31c415b1f6f274d18ac116c610b18"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_torrent_supersiegeunitmodifications_ba58a0c3b91888b188f46df5335a969f.bundle",
+    "size": 691619,
+    "sha256": "b6e3323ae1b4d1bb6f34d36f6f19537650888e84048f87fc486d60f5125e9e1e"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_mod_viking_maraduerunitmodifications_6f47f9b258b44bb9ca9d1ca84b81ac76.bundle",
+    "size": 29511,
+    "sha256": "1d1eb8267d798c55c1546662eed88112eb71021fc74ef6b8962b3e2e7bc3afb3"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodifications_460a096dc2e3e4421e64c461f7325781.bundle",
+    "size": 124552,
+    "sha256": "5b593ab25d174078792e0471699cebb3afb383ff518971fc51203a8ad708381c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_alligator_maraduer_b7ae783e646a69e9c8943f052ebe7e25.bundle",
+    "size": 27817,
+    "sha256": "a4dcbaa5a3d1c4b56503203852a156c4e214e0cf9f55ac32733cbc0fc7b65b98"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_armadillo_quickshot_d60be6245b9e29fb051860504b8f9241.bundle",
+    "size": 30134,
+    "sha256": "4d93da8ef7fec0b6a0466a8c0fc12099022a1ea2f68eab8fc71fc80b67ecdba4"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_f1_avia_fighter_epic_shatter_14d6d556315213b74371f078ecf72bda.bundle",
+    "size": 32000,
+    "sha256": "b3fcc006929409f605107bf549adf99c3d02e44c314ba97f82cd786f81dc50aa"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_f2_avia_fighter_epic_interceptor_b15ac8fd9896558c08e90021f2e98d86.bundle",
+    "size": 30186,
+    "sha256": "0ec2a2835b5bb2c09fe13a1ff1cb6c454ff3d90aefebce4892316841d98ca4e8"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_hammer_heavy_0ea628ad8616464d183ad2a85d3c1f62.bundle",
+    "size": 721406,
+    "sha256": "179cfc488fd373da2df4f4978cb66c99102feb3ee5509d461a8f2ef8d1b55978"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_hammer_sniper_85038ecf7aeef4ee970efd85b32b9298.bundle",
+    "size": 720613,
+    "sha256": "703c4ec6976c39570b8e5491059ee00eea2093984ad4b4bb8f73fe269f853982"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_jaguar_speedwagon_b073610dfa477ae3f90cbee22493a216.bundle",
+    "size": 27376,
+    "sha256": "189c08a9a5c77cb680c079ff860b0dfc845e815f54bc688be159336907c3b71d"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_jaguar_supersiege_257dbbc7a9b3a9aa70f65dd87661f35e.bundle",
+    "size": 722006,
+    "sha256": "aff58559507e45fb199512b99a81e6f998eb8343fa681919daba4ae4d77cf07c"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_mammoth_nuker_b451a722399eb1f2ee92b1cd4ca27642.bundle",
+    "size": 720792,
+    "sha256": "f9727893ef84150cc3135dcf8f89987a089de52249a8e96857b76043749863fc"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_mammoth_quickshot_0bda40ec95a4dac1eb283e3a3ff11cac.bundle",
+    "size": 29157,
+    "sha256": "3d6309d358213969007f955dfa808aa39e9f884455c3ec2cb573c68f149b4b90"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_shield_wide_0ae3460ab6a7eb27a3a790cb24959a1c.bundle",
+    "size": 34126,
+    "sha256": "e906ffc6293a1d8211ef34141f2e6e35dbce1d5ed5efc054fc8f788323b3ce99"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_torrent_shotgun_f88ead5de20060c520a33f913e68b1f5.bundle",
+    "size": 32360,
+    "sha256": "168f3504e847b43fbb4e2e009428825c3e70adcd6f8ffc9e7545233f82b422a4"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_torrent_supersiege_e2c48962fcee230b66cf7abee584ed79.bundle",
+    "size": 711890,
+    "sha256": "daf47bd037e96d840c6e27131ac2ace55488f90c1b258386ff3e03258219551a"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_typhoon_speedwagon_78d613c5c149e21b0d894013d8cc694e.bundle",
+    "size": 28363,
+    "sha256": "9defec128323725fde25c99074654151bf81741ab2fdcb9bc9a7179c0a0e9740"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_zeus_light_91db7601b1dd8a2d07e25d9b02383714.bundle",
+    "size": 30261,
+    "sha256": "4889c8ebd766106e5c807a69710f75d9a8375c4a8bef8846a438a9c066e44340"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_zeus_powershot_8f14cc22b43b70b710cbeb07326b3bb7.bundle",
+    "size": 732990,
+    "sha256": "83dd05c2913b4ab44e7b6881b2d573ce95f8a79b666ee77eaad5ecc8e32d7bff"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_zeus_quickshot_8a44c39eee3fd5aa5be76547ac9d108d.bundle",
+    "size": 31542,
+    "sha256": "201425d9b7202de144869770454f5a458c55345307570f6a7296f6c30c5f2b39"
+  },
+  {
+    "path": "offline-bundles/6000.0.80f1/Android/UnitModifications/remoteunitmodifications_assets_unitmodificationsmod_zeus_shotgun_2bfd5231c7e295019a2fa2f7b4c0624e.bundle",
+    "size": 764955,
+    "sha256": "972c9600a845eaff14503a54a9648431c1e758d463012d126721b43e4cd9ab56"
+  },
+  {
+    "path": "offline-campaign/076f78ff2e7460cb6b29cf85fa5f70162e819db334f75cd473d9dc03dfc33058.ggs",
+    "size": 371091,
+    "sha256": "076f78ff2e7460cb6b29cf85fa5f70162e819db334f75cd473d9dc03dfc33058"
+  },
+  {
+    "path": "offline-campaign/0b5b36ed3662a7249a0a744ac3ded0ac9117d906827632c5b3e287b1202380fb.ggs",
+    "size": 442771,
+    "sha256": "0b5b36ed3662a7249a0a744ac3ded0ac9117d906827632c5b3e287b1202380fb"
+  },
+  {
+    "path": "offline-campaign/116d83ee6fecabd28c735b2e237545c08719255f41e8d2b1ea78010eaed42587.ggs",
+    "size": 318303,
+    "sha256": "116d83ee6fecabd28c735b2e237545c08719255f41e8d2b1ea78010eaed42587"
+  },
+  {
+    "path": "offline-campaign/1f605627c1b376ba484126b6e15ae4c05da5fd94d28920fd4560849a5073df6a.ggs",
+    "size": 325059,
+    "sha256": "1f605627c1b376ba484126b6e15ae4c05da5fd94d28920fd4560849a5073df6a"
+  },
+  {
+    "path": "offline-campaign/32b0580e1a7a898577b5f6dd3fc7130611ec78e603003562e8d6302ac9f00917.ggs",
+    "size": 518623,
+    "sha256": "32b0580e1a7a898577b5f6dd3fc7130611ec78e603003562e8d6302ac9f00917"
+  },
+  {
+    "path": "offline-campaign/39bdf6898226fc28d73fc59d8198f03669a124415a6efbf5b1621fadee7d5b12.ggs",
+    "size": 316872,
+    "sha256": "39bdf6898226fc28d73fc59d8198f03669a124415a6efbf5b1621fadee7d5b12"
+  },
+  {
+    "path": "offline-campaign/3dfd118a9eb7d87518fa8eda04c053cb2285990b7f113c5cd39a413aa089a3be.ggs",
+    "size": 455359,
+    "sha256": "3dfd118a9eb7d87518fa8eda04c053cb2285990b7f113c5cd39a413aa089a3be"
+  },
+  {
+    "path": "offline-campaign/3fbd2634a02311149836caca86ce1424895fa385765a9a3ad7017565cf14bdee.ggs",
+    "size": 523360,
+    "sha256": "3fbd2634a02311149836caca86ce1424895fa385765a9a3ad7017565cf14bdee"
+  },
+  {
+    "path": "offline-campaign/46f878db730c7d04e90ba35a85ba1b891feb3e2a7dd3d7c3ddb61de4b503099f.ggs",
+    "size": 317502,
+    "sha256": "46f878db730c7d04e90ba35a85ba1b891feb3e2a7dd3d7c3ddb61de4b503099f"
+  },
+  {
+    "path": "offline-campaign/48366fde17801dd6262a70f5deb92b0981a2ced3eeeb87badab0835b34c82886.ggs",
+    "size": 449124,
+    "sha256": "48366fde17801dd6262a70f5deb92b0981a2ced3eeeb87badab0835b34c82886"
+  },
+  {
+    "path": "offline-campaign/4a2179e7fccd52c78b21d1fed3dbd2a1f51f5f6a1a079053e171222708b41dd6.ggs",
+    "size": 453914,
+    "sha256": "4a2179e7fccd52c78b21d1fed3dbd2a1f51f5f6a1a079053e171222708b41dd6"
+  },
+  {
+    "path": "offline-campaign/4afa7d83481c5a636e9edd8f8a6e94a8847db7e08efb8c2cc07ef2725d4c07c8.ggs",
+    "size": 324267,
+    "sha256": "4afa7d83481c5a636e9edd8f8a6e94a8847db7e08efb8c2cc07ef2725d4c07c8"
+  },
+  {
+    "path": "offline-campaign/4b43b644d6665a8d7429b0e498dacb1fa86a11088a12aaa0b08fb26a82a6ad5b.ggs",
+    "size": 339562,
+    "sha256": "4b43b644d6665a8d7429b0e498dacb1fa86a11088a12aaa0b08fb26a82a6ad5b"
+  },
+  {
+    "path": "offline-campaign/4e30b5418f03ad4f037b26814dedf05e52ef6ea72a05a1563d9a5aee4dee9529.ggs",
+    "size": 436209,
+    "sha256": "4e30b5418f03ad4f037b26814dedf05e52ef6ea72a05a1563d9a5aee4dee9529"
+  },
+  {
+    "path": "offline-campaign/51a93b5e477c52ba0bfbfbfe1fd27ef6cff3ff6121ac0dd5684b8602374c721e.ggs",
+    "size": 438235,
+    "sha256": "51a93b5e477c52ba0bfbfbfe1fd27ef6cff3ff6121ac0dd5684b8602374c721e"
+  },
+  {
+    "path": "offline-campaign/53d491f8dc925c6e9a0ac9dcd9d4e7beb401c8cfaed8e4a63460bbb31cd7367b.ggs",
+    "size": 443095,
+    "sha256": "53d491f8dc925c6e9a0ac9dcd9d4e7beb401c8cfaed8e4a63460bbb31cd7367b"
+  },
+  {
+    "path": "offline-campaign/5eb5a1a35d5576048393732460ca7be38f401ea522d519ea0fea8b8a23ca3b8b.ggs",
+    "size": 279533,
+    "sha256": "5eb5a1a35d5576048393732460ca7be38f401ea522d519ea0fea8b8a23ca3b8b"
+  },
+  {
+    "path": "offline-campaign/5ff4813e4dadcb3779c0406663072a866783cbd0624991d2d612efd07a00dcd9.ggs",
+    "size": 441264,
+    "sha256": "5ff4813e4dadcb3779c0406663072a866783cbd0624991d2d612efd07a00dcd9"
+  },
+  {
+    "path": "offline-campaign/67c6ae0ae24ed7a6773cd458c03bcd3612613078e27aabdde19e63d342e96a91.ggs",
+    "size": 950965,
+    "sha256": "67c6ae0ae24ed7a6773cd458c03bcd3612613078e27aabdde19e63d342e96a91"
+  },
+  {
+    "path": "offline-campaign/729cb920863a542e37dc17c9bea459de05022497ff2e246f24bc204197a1059a.ggs",
+    "size": 315326,
+    "sha256": "729cb920863a542e37dc17c9bea459de05022497ff2e246f24bc204197a1059a"
+  },
+  {
+    "path": "offline-campaign/75173d208dd520f040dba8075ec65dd492a069da9682cee96d6955d9fdd64a31.ggs",
+    "size": 449069,
+    "sha256": "75173d208dd520f040dba8075ec65dd492a069da9682cee96d6955d9fdd64a31"
+  },
+  {
+    "path": "offline-campaign/84e74b4377ebb42575b00322774450cad96108fe84aa8e166aab9b7514946588.ggs",
+    "size": 328859,
+    "sha256": "84e74b4377ebb42575b00322774450cad96108fe84aa8e166aab9b7514946588"
+  },
+  {
+    "path": "offline-campaign/87f96b093d4a122be0de1d7f736c9c4efdae70531f9efe6ef9da1c7aecc7a2c3.ggs",
+    "size": 317112,
+    "sha256": "87f96b093d4a122be0de1d7f736c9c4efdae70531f9efe6ef9da1c7aecc7a2c3"
+  },
+  {
+    "path": "offline-campaign/8cfae6916ae50c142259a8ae6ce6d0fd63349deb3df374d885e95ba74c2ac0c1.ggs",
+    "size": 395776,
+    "sha256": "8cfae6916ae50c142259a8ae6ce6d0fd63349deb3df374d885e95ba74c2ac0c1"
+  },
+  {
+    "path": "offline-campaign/8d5d63d8079a180215aa0c9bfc31e5c87c59a3316373a6effae5ecc34fd03136.ggs",
+    "size": 340969,
+    "sha256": "8d5d63d8079a180215aa0c9bfc31e5c87c59a3316373a6effae5ecc34fd03136"
+  },
+  {
+    "path": "offline-campaign/8f87a847feed5dea65cf85ed874e35e4a2b687a431e81842b4deb10e9da06327.ggs",
+    "size": 441784,
+    "sha256": "8f87a847feed5dea65cf85ed874e35e4a2b687a431e81842b4deb10e9da06327"
+  },
+  {
+    "path": "offline-campaign/9441b0a5396b78edfc62dc3c9647ac385aacff5ceb3c4d21744d6889d09c1f00.ggs",
+    "size": 398968,
+    "sha256": "9441b0a5396b78edfc62dc3c9647ac385aacff5ceb3c4d21744d6889d09c1f00"
+  },
+  {
+    "path": "offline-campaign/a46e5bf18dc068e21393e36c8db1d105b50cbd77329c897d5f4d447a79b997b4.ggs",
+    "size": 375265,
+    "sha256": "a46e5bf18dc068e21393e36c8db1d105b50cbd77329c897d5f4d447a79b997b4"
+  },
+  {
+    "path": "offline-campaign/a5e38556426c4bbf85a5c53bad4011854acaf797be0846c7bf06b4f197b12878.ggs",
+    "size": 329358,
+    "sha256": "a5e38556426c4bbf85a5c53bad4011854acaf797be0846c7bf06b4f197b12878"
+  },
+  {
+    "path": "offline-campaign/aa216df4436e5403e8a1d293cb962dc6a64e285b151760d06b1b522bcef2443d.ggs",
+    "size": 444804,
+    "sha256": "aa216df4436e5403e8a1d293cb962dc6a64e285b151760d06b1b522bcef2443d"
+  },
+  {
+    "path": "offline-campaign/adf5046c01959b93e68f087cd018529e8f5943d5b7f962b1e1dc00c39c1e866c.ggs",
+    "size": 521464,
+    "sha256": "adf5046c01959b93e68f087cd018529e8f5943d5b7f962b1e1dc00c39c1e866c"
+  },
+  {
+    "path": "offline-campaign/adfc07c26ed64c11a97b28ac33c3ed8d6dfb73ebf87b5911ac1064cb1d96a5e5.ggs",
+    "size": 517562,
+    "sha256": "adfc07c26ed64c11a97b28ac33c3ed8d6dfb73ebf87b5911ac1064cb1d96a5e5"
+  },
+  {
+    "path": "offline-campaign/b0b5a936edb0e97e59ce68951cde921f46bff1dd3d4e82070940c0f7ddc0b0c0.ggs",
+    "size": 321713,
+    "sha256": "b0b5a936edb0e97e59ce68951cde921f46bff1dd3d4e82070940c0f7ddc0b0c0"
+  },
+  {
+    "path": "offline-campaign/b33e334a3a723da4508c51fce5729c7240f0a7e69dcebb2eb90d6c79c7098b0e.ggs",
+    "size": 437962,
+    "sha256": "b33e334a3a723da4508c51fce5729c7240f0a7e69dcebb2eb90d6c79c7098b0e"
+  },
+  {
+    "path": "offline-campaign/b8b496128e8041038b0cc582a4cacf33b47ccc7c49ff1ef376a6b15762f14866.ggs",
+    "size": 397205,
+    "sha256": "b8b496128e8041038b0cc582a4cacf33b47ccc7c49ff1ef376a6b15762f14866"
+  },
+  {
+    "path": "offline-campaign/b93b0cc5f2fe19889f99d012a5806da6873ae14372e1d104fa6aa4f14b80571d.ggs",
+    "size": 279791,
+    "sha256": "b93b0cc5f2fe19889f99d012a5806da6873ae14372e1d104fa6aa4f14b80571d"
+  },
+  {
+    "path": "offline-campaign/bb73cfc293d464d43605ab8bdb6f559230f9a2036c4721b6569855fbde8d48e0.ggs",
+    "size": 521399,
+    "sha256": "bb73cfc293d464d43605ab8bdb6f559230f9a2036c4721b6569855fbde8d48e0"
+  },
+  {
+    "path": "offline-campaign/bd0747d3830d46b7f940a7a6eeff1db569dc8953f7b1b380d037e3c86d08187f.ggs",
+    "size": 335114,
+    "sha256": "bd0747d3830d46b7f940a7a6eeff1db569dc8953f7b1b380d037e3c86d08187f"
+  },
+  {
+    "path": "offline-campaign/bd0cc89ae86b83c38518b146144ca7c4c6f7e685e50d33b2739a4de147a49187.ggs",
+    "size": 331798,
+    "sha256": "bd0cc89ae86b83c38518b146144ca7c4c6f7e685e50d33b2739a4de147a49187"
+  },
+  {
+    "path": "offline-campaign/be6bdcebac64fef823b888da3396b987e148dac033f97bdd5fe4a08bbaca59a5.ggs",
+    "size": 441290,
+    "sha256": "be6bdcebac64fef823b888da3396b987e148dac033f97bdd5fe4a08bbaca59a5"
+  },
+  {
+    "path": "offline-campaign/bf13dca4480a0d7eccd516f9c6fcee3250ec9635e535582a55820d2edb64188a.ggs",
+    "size": 325599,
+    "sha256": "bf13dca4480a0d7eccd516f9c6fcee3250ec9635e535582a55820d2edb64188a"
+  },
+  {
+    "path": "offline-campaign/c04090faf918a77c98ad34a6a7045719bf0b737a1fc9c09b02347e0207ca7b87.ggs",
+    "size": 440899,
+    "sha256": "c04090faf918a77c98ad34a6a7045719bf0b737a1fc9c09b02347e0207ca7b87"
+  },
+  {
+    "path": "offline-campaign/c8dd38f9270ed0a84c256e02d6228e196915b23dc40451fccc0d647d39590cdf.ggs",
+    "size": 441612,
+    "sha256": "c8dd38f9270ed0a84c256e02d6228e196915b23dc40451fccc0d647d39590cdf"
+  },
+  {
+    "path": "offline-campaign/catalog.bin",
+    "size": 7056,
+    "sha256": "279f1a9917262b0e7188cc8bb0b68649112ff10707e42c4ff7f1777c5e89ca01"
+  },
+  {
+    "path": "offline-campaign/cdb5e4d59cd3783ba5bec74f2eace4f24f62b351cc65e6ebd2c2d2dca55c892f.ggs",
+    "size": 319413,
+    "sha256": "cdb5e4d59cd3783ba5bec74f2eace4f24f62b351cc65e6ebd2c2d2dca55c892f"
+  },
+  {
+    "path": "offline-campaign/d15370a5bcd14510658a21189979c6f92c8d1234c278666036342e6384cf9844.ggs",
+    "size": 319179,
+    "sha256": "d15370a5bcd14510658a21189979c6f92c8d1234c278666036342e6384cf9844"
+  },
+  {
+    "path": "offline-campaign/d5de9c723958dcda8eeb9365295e23f31b9faeba1d274d5f350d54bdb34e6d96.ggs",
+    "size": 517875,
+    "sha256": "d5de9c723958dcda8eeb9365295e23f31b9faeba1d274d5f350d54bdb34e6d96"
+  },
+  {
+    "path": "offline-campaign/d75feea6e58809488a96191c292b2dedcce5a449f5630f070836671d6c893009.ggs",
+    "size": 441662,
+    "sha256": "d75feea6e58809488a96191c292b2dedcce5a449f5630f070836671d6c893009"
+  },
+  {
+    "path": "offline-campaign/d816ade2efa6328abc003182f8e7af85a1e57511e7772db7a88cf27cee1bcb65.ggs",
+    "size": 441895,
+    "sha256": "d816ade2efa6328abc003182f8e7af85a1e57511e7772db7a88cf27cee1bcb65"
+  },
+  {
+    "path": "offline-campaign/e0f5691777692b52f14e04452cec2983034a24c7e354bf21d6ad43afc2d3d791.ggs",
+    "size": 521799,
+    "sha256": "e0f5691777692b52f14e04452cec2983034a24c7e354bf21d6ad43afc2d3d791"
+  },
+  {
+    "path": "offline-campaign/e427f21ca28971d2154f642fa87397214af34b2c1033b02ac3c5adf7dbd90f4b.ggs",
+    "size": 330153,
+    "sha256": "e427f21ca28971d2154f642fa87397214af34b2c1033b02ac3c5adf7dbd90f4b"
+  },
+  {
+    "path": "offline-campaign/e76d7ed348ee14463e12153afa9a520eb0fe73789f79bebe09cf6132cb1210ed.ggs",
+    "size": 436436,
+    "sha256": "e76d7ed348ee14463e12153afa9a520eb0fe73789f79bebe09cf6132cb1210ed"
+  },
+  {
+    "path": "offline-campaign/ea4dc236b4c9b7a5632d9fea0c47935144ba3cf2e7c802eb5c0b5cbb7b05a0ad.ggs",
+    "size": 516680,
+    "sha256": "ea4dc236b4c9b7a5632d9fea0c47935144ba3cf2e7c802eb5c0b5cbb7b05a0ad"
+  },
+  {
+    "path": "offline-campaign/eb73cb2c684ebdcc0238becdf255c7a5a45fd754384baef8ab7d19542d17d302.ggs",
+    "size": 519104,
+    "sha256": "eb73cb2c684ebdcc0238becdf255c7a5a45fd754384baef8ab7d19542d17d302"
+  },
+  {
+    "path": "offline-campaign/ed02ed2813e6c7c705ea1ef20486ccce9fb5dc794fe08380f7ea57818f9dfaad.ggs",
+    "size": 336224,
+    "sha256": "ed02ed2813e6c7c705ea1ef20486ccce9fb5dc794fe08380f7ea57818f9dfaad"
+  },
+  {
+    "path": "offline-campaign/efb544d53ae35f5fefda8933f04b07e2c0b1c040e18467b11badde1b5bd12483.ggs",
+    "size": 397602,
+    "sha256": "efb544d53ae35f5fefda8933f04b07e2c0b1c040e18467b11badde1b5bd12483"
+  },
+  {
+    "path": "offline-campaign/ff906907c952a2056c7f2a2261c5400dd666c2f20803cd2cb769c0d094a4518f.ggs",
+    "size": 439187,
+    "sha256": "ff906907c952a2056c7f2a2261c5400dd666c2f20803cd2cb769c0d094a4518f"
+  },
+  {
+    "path": "offline-catalogs/Maps.json",
+    "size": 460802,
+    "sha256": "61fbcb491d68cc231ff14cab5e119de71d63d2e65fab3de8d5eee1b0cb04385a"
+  },
+  {
+    "path": "offline-catalogs/OmniWindowElements.json",
+    "size": 14265,
+    "sha256": "5e330d99a8ac7abf48c4c2d2ff88134c032aed8772ca8175475b713cea60fe00"
+  },
+  {
+    "path": "offline-catalogs/OmniWindowTemplates.json",
+    "size": 16431,
+    "sha256": "9378c1c195fd71ed2e4b53fd5d0b19f55e15f7c3b7851afd30ea604ffe952024"
+  },
+  {
+    "path": "offline-catalogs/UnitModifications.json",
+    "size": 71980,
+    "sha256": "2a9672c1d0a236d0ede4e27ee529caace7f56d106b2157457e7cfb8114e67dbd"
+  },
+  {
+    "path": "offline-cooperative/catalog.bin",
+    "size": 144,
+    "sha256": "ab855d41ff9f193dbb5c15fb096a77e2a7b882c6cc740ce179a4b84ae984027b"
+  },
+  {
+    "path": "offline-dictionaries/BATTLE.ggs",
+    "size": 188597,
+    "sha256": "d1163bbe11920d247df97b2e61e3933f1b83f87b163efffdcdce9e936172e00c"
+  },
+  {
+    "path": "offline-dictionaries/CONFEDERATION.ggs",
+    "size": 676516,
+    "sha256": "4ea44bc722fda55be8860776613e1625f65e3a822ad5ba0e35d4e4732983fa10"
+  },
+  {
+    "path": "offline-dictionaries/LOCALE.ggs",
+    "size": 978396,
+    "sha256": "6a47b914566a035bd5618c4b97d37ad6da4e048e09b74f1b8a70ac65396994ca"
+  },
+  {
+    "path": "offline-dictionaries/MissionDictionary.ggs",
+    "size": 246666,
+    "sha256": "cca62148948af3ea66874db960940ce521de3860d0f4df85c11f2441b3eec8dd"
+  },
+  {
+    "path": "offline-dictionaries/RESISTANCE.ggs",
+    "size": 565130,
+    "sha256": "a41db31791b4a21fba896d84a6d730c7e73f8c032a94a3e3b38fb4b46ed47240"
+  },
+  {
+    "path": "offline-dictionaries/SHARED.ggs",
+    "size": 5015453,
+    "sha256": "741c6a88ba79d44e40b86477812697bbeb0e7e74675f174b7391441ce5679562"
+  },
+  {
+    "path": "offline-replay/0000_DeviceQualityConfiguration.ggs",
+    "size": 48,
+    "sha256": "4fa80b46b4f58184fe14429f4f8aa65353947349d7bdcedb30c899a2308d8ca2"
+  },
+  {
+    "path": "offline-replay/0000_DeviceQualityConfiguration.meta.txt",
+    "size": 124,
+    "sha256": "5708668d8dd6cb9a6f060787fcff39f08b57f8b4e1a49290f91438124e419939"
+  },
+  {
+    "path": "offline-replay/0001_GeneralConfiguration.ggs",
+    "size": 11047,
+    "sha256": "6b39a1fdc66a3b79871c632b1c5a903497956e52c5adc97f0505f01ccff7fefd"
+  },
+  {
+    "path": "offline-replay/0001_GeneralConfiguration.meta.txt",
+    "size": 121,
+    "sha256": "ff6d6170578d57061ff3b19c96abd15deaeb8ab476a471da1ec3d0452d42eb74"
+  },
+  {
+    "path": "offline-replay/0002_ClientResourceConfiguration.ggs",
+    "size": 2862,
+    "sha256": "3d4b549d7f5b6284e1bf32c800dbf082106f73ec150a9c8e9016d002fd4f60a8"
+  },
+  {
+    "path": "offline-replay/0002_ClientResourceConfiguration.meta.txt",
+    "size": 127,
+    "sha256": "9aa1f1d8f48666ef6aa858d0cdf80f0579f00cde1d4c889976d00ffbf4fb005d"
+  },
+  {
+    "path": "offline-replay/0003_OnlineProfileAnswer.ggs",
+    "size": 13,
+    "sha256": "1dc82a9b13529f02a5abefb0375be3951a31a6aec733635ab129933ce41a2851"
+  },
+  {
+    "path": "offline-replay/0003_OnlineProfileAnswer.meta.txt",
+    "size": 117,
+    "sha256": "bdf55668d5ac30651fdb928a50bf1cb0dd29d205fe69d174d2a09ad16f676a84"
+  },
+  {
+    "path": "offline-replay/0004_ChangeEntityComplex.ggs",
+    "size": 105221,
+    "sha256": "99822d9407abb466bdc8f4d8de3c3c9093693c3f1d1abfd526f1f5f88ff34f91"
+  },
+  {
+    "path": "offline-replay/0004_ChangeEntityComplex.meta.txt",
+    "size": 122,
+    "sha256": "eaa8e54d001098efad3ae9a080a385a6c65a890230f84ff9ca2db4c11d3ca54d"
+  },
+  {
+    "path": "offline-replay/0005_UserConfiguration.ggs",
+    "size": 199983,
+    "sha256": "5f59913b2e7e1b913f35e0c193df971593c0b7ff4cc615098110cc1fda09f755"
+  },
+  {
+    "path": "offline-replay/0005_UserConfiguration.meta.txt",
+    "size": 119,
+    "sha256": "39cf63ee8cb01d828f63b6cc3984a08aebe44c68203de5b2bd5c4ee539d0c873"
+  },
+  {
+    "path": "offline-replay/0006_NewsConfigurationAnswer.ggs",
+    "size": 35,
+    "sha256": "01c428dc53708474e60a2d4358c009b29ef190fa267027c3772530c10c3b09eb"
+  },
+  {
+    "path": "offline-replay/0006_NewsConfigurationAnswer.meta.txt",
+    "size": 122,
+    "sha256": "449d12026a21d528e2dd84faa74ea9c036ffdddbed6d2683e2641ce1748e079e"
+  },
+  {
+    "path": "offline-scenarios/resistance-001.ggs",
+    "size": 440865,
+    "sha256": "56fc661b28ca266fa337962b6eb2c651e282c9aac8068718b18cd8599344742c"
+  },
+  {
+    "path": "offline-scenarios/resistance-002-description.ggs",
+    "size": 52956,
+    "sha256": "331d19ad180528382e9766a464ab9daa76e9ef8e7f4b93edc77be3a603ad703d"
+  },
+  {
+    "path": "offline-scenarios/resistance-002.ggs",
+    "size": 328859,
+    "sha256": "84e74b4377ebb42575b00322774450cad96108fe84aa8e166aab9b7514946588"
+  },
+  {
+    "path": "offline-scenarios/resistance-003.ggs",
+    "size": 331798,
+    "sha256": "bd0cc89ae86b83c38518b146144ca7c4c6f7e685e50d33b2739a4de147a49187"
+  },
+  {
+    "path": "offline-scenarios/resistance-004.ggs",
+    "size": 329358,
+    "sha256": "a5e38556426c4bbf85a5c53bad4011854acaf797be0846c7bf06b4f197b12878"
+  },
+  {
+    "path": "offline-seeds/fmc1m.ggs",
+    "size": 436436,
+    "sha256": "e76d7ed348ee14463e12153afa9a520eb0fe73789f79bebe09cf6132cb1210ed"
+  },
+  {
+    "path": "offline-seeds/fmc1r.ggs",
+    "size": 435521,
+    "sha256": "b24c32c09e6a7355731b40fd915ed28d5bc142a6fe6753ca971a1484b2bbd1cd"
+  },
+  {
+    "path": "offline-seeds/fmc2m.ggs",
+    "size": 436209,
+    "sha256": "4e30b5418f03ad4f037b26814dedf05e52ef6ea72a05a1563d9a5aee4dee9529"
+  },
+  {
+    "path": "offline-seeds/fmc2r.ggs",
+    "size": 477990,
+    "sha256": "594824e9d57f408ec8231eafc3b28cd692e08738f44f98734bfb4dfb685aba24"
+  }
+]

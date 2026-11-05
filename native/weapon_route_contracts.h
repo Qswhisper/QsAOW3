@@ -1,0 +1,46 @@
+// Verified local routing contracts for the pinned game client.
+// Not an exported original server upgrade-modifier table.
+#pragma once
+namespace generic_unit_research {
+struct RouteContract {int faction,owner,slot,name,type;const char* model;};
+static const RouteContract route_contracts[]={
+    {1,0,3,2720,10,"f1/f1_inf_light"},
+    {1,0,4,2721,20,"f1/f1_inf_light"},
+    {1,10,1,2724,10,"f1/f1_veh_fortress"},
+    {1,10,4,2724,10,"f1/f1_veh_fortress"},
+    {1,10,5,2725,40,"f1/f1_veh_fortress"},
+    {1,15,2,2727,21,"f1/f1_veh_zeus"},
+    {1,15,4,2727,21,"f1/f1_veh_zeus"},
+    {1,15,5,2728,30,"f1/f1_veh_zeus"},
+    {1,26,2,2735,21,"f1/f1_nav_light"},
+    {1,26,3,2735,21,"f1/f1_nav_light"},
+    {1,26,5,2736,34,"f1/f1_nav_light"},
+    {1,27,3,2737,23,"f1/f1_nav_heavy"},
+    {1,27,5,2738,30,"f1/f1_nav_heavy"},
+    {2,112,2,2757,30,"f2/f2_veh_porcupine"},
+    {2,112,4,2758,10,"f2/f2_veh_porcupine"},
+    {2,120,3,2760,30,"f2/f2_avia_helicopter"},
+    {2,120,4,2761,10,"f2/f2_avia_helicopter"},
+    {2,120,5,2761,10,"f2/f2_avia_helicopter"},
+    {2,121,4,2762,30,"f2/f2_avia_fighter"},
+    {2,121,6,2763,10,"f2/f2_avia_fighter"},
+    {2,126,2,2766,21,"f2/f2_nav_alligator"},
+    {2,126,3,2766,21,"f2/f2_nav_alligator"},
+    {2,126,6,2767,30,"f2/f2_nav_alligator"},
+    {2,127,3,2769,23,"f2/f2_nav_barracuda"},
+    {2,127,5,2768,34,"f2/f2_nav_barracuda"},
+    {1,10,3,2725,40,"f1/f1_veh_fortress"},
+    {1,15,3,2728,30,"f1/f1_veh_zeus"},
+    {1,26,4,2736,34,"f1/f1_nav_light"},
+    {1,27,2,2737,23,"f1/f1_nav_heavy"},
+    {2,100,2,2750,10,"f2/f2_inf_light"},
+    {2,112,1,2757,30,"f2/f2_veh_porcupine"},
+    {2,112,3,2758,10,"f2/f2_veh_porcupine"},
+    {2,120,2,2760,30,"f2/f2_avia_helicopter"},
+    {2,121,3,2762,30,"f2/f2_avia_fighter"},
+    {2,121,5,2763,10,"f2/f2_avia_fighter"},
+    {2,126,4,2767,30,"f2/f2_nav_alligator"},
+    {2,127,2,2769,23,"f2/f2_nav_barracuda"},
+    {2,127,4,2768,34,"f2/f2_nav_barracuda"},
+};
+}

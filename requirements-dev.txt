@@ -1,0 +1,3 @@
+# Optional binary-inspection tools; APK builds/tests use Python's standard library.
+capstone==5.0.7
+pyelftools>=0.31,<1
