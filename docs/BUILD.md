@@ -23,7 +23,7 @@ python tools/build.py --base /path/to/QsAOW3-v0.1.0.apk --sdk /path/to/android-s
 
 启动 APK 的 SHA256、IL2CPP 与原 Unity loader 哈希必须吻合。换一个原游戏版本需要重新核验全部原生接口与地址，不能仅修改版本号或跳过哈希检查。
 
-`dist/QsAOW3.apk` 是输出，旁边的 `.build.json` 记录输入/原生库/产物哈希。签名和 16 KiB ZIP/ELF 对齐会在构建末尾检查。项目版本见 `project.json`，原客户端的 Android 版本字段仍沿原基线。
+`dist/QsAOW3.apk` 是输出，旁边的 `.build.json` 记录输入/原生库/产物哈希。适配库链接使用 16 KiB 最大页大小，APK 使用 16 KiB 原生库 ZIP 页对齐；构建末尾核验签名和 ZIP 对齐。原引擎库保持固定基线，并未重新链接。项目版本见 `project.json`，原客户端的 Android 版本字段仍沿原基线。
 
 ## 签名与存档
 
