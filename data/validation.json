@@ -267,6 +267,10 @@
     "host": "Windows",
     "native_bit_identical": true,
     "all_zip_file_payloads_equal": true,
-    "new_development_signature_expected": true
+    "new_development_signature_expected": true,
+    "public_source_anonymous_clone": true,
+    "public_bootstrap_fully_downloaded_and_sha256_verified": true,
+    "zip_file_payloads_compared": 7472,
+    "source_commit_built": "1987573d721e307abf75f1be8fc473b56d8a8d27"
   }
 }
